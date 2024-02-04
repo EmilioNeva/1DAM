@@ -1,0 +1,289 @@
+FECHA;PUESTOLLEGADA;NUMAUTO;NOMBREPILOTO;EQUIPO;VUELTAS;TPOCARRERA;PUESTOPARRILLA;PUNTOSCARRERA
+2012/03/18;1;3;Jenson Button;McLaren-Mercedes;58;1:34:09.565;2;25
+2012/03/18;2;1;Sebastian Vettel;Red Bull Racing-Renault;58;+2.1 secs;6;18
+2012/03/18;3;4;Lewis Hamilton;McLaren-Mercedes;58;+4.0 secs;1;15
+2012/03/18;4;2;Mark Webber;Red Bull Racing-Renault;58;+4.5 secs;5;12
+2012/03/18;5;5;Fernando Alonso;Ferrari;58;+21.5 secs;12;10
+2012/03/18;6;14;Kamui Kobayashi;Sauber-Ferrari;58;+36.7 secs;13;8
+2012/03/18;7;9;Kimi Raikkonen;Lotus-Renault;58;+38.0 secs;17;6
+2012/03/18;8;15;Sergio Perez;Sauber-Ferrari;58;+39.4 secs;22;4
+2012/03/18;9;16;Daniel Ricciardo;STR-Ferrari;58;+39.5 secs;10;2
+2012/03/18;10;11;Paul di Resta;Force India-Mercedes;58;+39.7 secs;15;1
+2012/03/18;11;17;Jean-Eric Vergne;STR-Ferrari;58;+39.8 secs;11;0
+2012/03/18;12;8;Nico Rosberg;Mercedes;58;+57.6 secs;7;0
+2012/03/18;13;18;Pastor Maldonado;Williams-Renault;57;Accident;8;0
+2012/03/18;14;24;Timo Glock;Marussia-Cosworth;57;+1 Lap;20;0
+2012/03/18;15;25;Charles Pic;Marussia-Cosworth;53;Oil pressure;21;0
+2012/03/18;16;19;Bruno Senna;Williams-Renault;52;Accident damage;14;0
+2012/03/18;Ret;6;Felipe Massa;Ferrari;46;Accident damage;16;0
+2012/03/18;Ret;20;Heikki Kovalainen;Caterham-Renault;38;Suspension;18;0
+2012/03/18;Ret;21;Vitaly Petrov;Caterham-Renault;34;Steering;19;0
+2012/03/18;Ret;7;Michael Schumacher;Mercedes;10;Gearbox;4;0
+2012/03/18;Ret;10;Romain Grosjean;Lotus-Renault;1;Accident;3;0
+2012/03/18;Ret;12;Nico Hulkenberg;Force India-Mercedes;0;Accident damage;9;0
+2012/03/18;DNQ;22;Pedro de la Rosa;HRT-Cosworth;0;0;0;0
+2012/03/18;DNQ;23;Narain Karthikeyan;HRT-Cosworth;0;0;0;0
+2012/03/25;1;5;Fernando Alonso;Ferrari;56;2:44:51.812;8;25
+2012/03/25;2;15;Sergio Perez;Sauber-Ferrari;56;+2.2 secs;9;18
+2012/03/25;3;4;Lewis Hamilton;McLaren-Mercedes;56;+14.5 secs;1;15
+2012/03/25;4;2;Mark Webber;Red Bull Racing-Renault;56;+17.6 secs;4;12
+2012/03/25;5;9;Kimi Raikkonen;Lotus-Renault;56;+29.4 secs;10;10
+2012/03/25;6;19;Bruno Senna;Williams-Renault;56;+37.6 secs;13;8
+2012/03/25;7;11;Paul di Resta;Force India-Mercedes;56;+44.4 secs;14;6
+2012/03/25;8;17;Jean-Eric Vergne;STR-Ferrari;56;+46.9 secs;18;4
+2012/03/25;9;12;Nico Hulkenberg;Force India-Mercedes;56;+47.8 secs;16;2
+2012/03/25;10;7;Michael Schumacher;Mercedes;56;+49.9 secs;3;1
+2012/03/25;11;1;Sebastian Vettel;Red Bull Racing-Renault;56;+75.5 secs;5;0
+2012/03/25;12;16;Daniel Ricciardo;STR-Ferrari;56;+76.8 secs;15;0
+2012/03/25;13;8;Nico Rosberg;Mercedes;56;+78.5 secs;7;0
+2012/03/25;14;3;Jenson Button;McLaren-Mercedes;56;+79.7 secs;2;0
+2012/03/25;15;6;Felipe Massa;Ferrari;56;+97.3 secs;12;0
+2012/03/25;16;21;Vitaly Petrov;Caterham-Renault;55;+1 Lap;19;0
+2012/03/25;17;24;Timo Glock;Marussia-Cosworth;55;+1 Lap;20;0
+2012/03/25;18;20;Heikki Kovalainen;Caterham-Renault;55;+1 Lap;24;0
+2012/03/25;19;18;Pastor Maldonado;Williams-Renault;54;Engine;11;0
+2012/03/25;20;25;Charles Pic;Marussia-Cosworth;54;+2 Laps;21;0
+2012/03/25;21;22;Pedro de la Rosa;HRT-Cosworth;54;+2 Laps;22;0
+2012/03/25;22;23;Narain Karthikeyan;HRT-Cosworth;54;+2 Laps;23;0
+2012/03/25;Ret;14;Kamui Kobayashi;Sauber-Ferrari;46;Brakes;17;0
+2012/03/25;Ret;10;Romain Grosjean;Lotus-Renault;3;Spin;6;0
+2012/04/15;1;8;Nico Rosberg;Mercedes;56;1:36:26.929;1;25
+2012/04/15;2;3;Jenson Button;McLaren-Mercedes;56;+20.6 secs;5;18
+2012/04/15;3;4;Lewis Hamilton;McLaren-Mercedes;56;+26.0 secs;7;15
+2012/04/15;4;2;Mark Webber;Red Bull Racing-Renault;56;+27.9 secs;6;12
+2012/04/15;5;1;Sebastian Vettel;Red Bull Racing-Renault;56;+30.4 secs;11;10
+2012/04/15;6;10;Romain Grosjean;Lotus-Renault;56;+31.4 secs;10;8
+2012/04/15;7;19;Bruno Senna;Williams-Renault;56;+34.5 secs;14;6
+2012/04/15;8;18;Pastor Maldonado;Williams-Renault;56;+35.6 secs;13;4
+2012/04/15;9;5;Fernando Alonso;Ferrari;56;+37.2 secs;9;2
+2012/04/15;10;14;Kamui Kobayashi;Sauber-Ferrari;56;+38.7 secs;3;1
+2012/04/15;11;15;Sergio Perez;Sauber-Ferrari;56;+41.0 secs;8;0
+2012/04/15;12;11;Paul di Resta;Force India-Mercedes;56;+42.2 secs;15;0
+2012/04/15;13;6;Felipe Massa;Ferrari;56;+42.7 secs;12;0
+2012/04/15;14;9;Kimi Raikkonen;Lotus-Renault;56;+50.5 secs;4;0
+2012/04/15;15;12;Nico Hulkenberg;Force India-Mercedes;56;+51.2 secs;16;0
+2012/04/15;16;17;Jean-Eric Vergne;STR-Ferrari;56;+51.7 secs;24;0
+2012/04/15;17;16;Daniel Ricciardo;STR-Ferrari;56;+63.1 secs;17;0
+2012/04/15;18;21;Vitaly Petrov;Caterham-Renault;55;+1 Lap;19;0
+2012/04/15;19;24;Timo Glock;Marussia-Cosworth;55;+1 Lap;20;0
+2012/04/15;20;25;Charles Pic;Marussia-Cosworth;55;+1 Lap;21;0
+2012/04/15;21;22;Pedro de la Rosa;HRT-Cosworth;55;+1 Lap;22;0
+2012/04/15;22;23;Narain Karthikeyan;HRT-Cosworth;54;+2 Laps;23;0
+2012/04/15;23;20;Heikki Kovalainen;Caterham-Renault;53;+3 Laps;18;0
+2012/04/15;Ret;7;Michael Schumacher;Mercedes;12;Wheel;2;0
+2012/04/22;1;1;Sebastian Vettel;Red Bull Racing-Renault;57;1:35:10.990;1;25
+2012/04/22;2;9;Kimi Raikkonen;Lotus-Renault;57;+3.3 secs;11;18
+2012/04/22;3;10;Romain Grosjean;Lotus-Renault;57;+10.1 secs;7;15
+2012/04/22;4;2;Mark Webber;Red Bull Racing-Renault;57;+38.7 secs;3;12
+2012/04/22;5;8;Nico Rosberg;Mercedes;57;+55.4 secs;5;10
+2012/04/22;6;11;Paul di Resta;Force India-Mercedes;57;+57.5 secs;10;8
+2012/04/22;7;5;Fernando Alonso;Ferrari;57;+57.8 secs;9;6
+2012/04/22;8;4;Lewis Hamilton;McLaren-Mercedes;57;+58.9 secs;2;4
+2012/04/22;9;6;Felipe Massa;Ferrari;57;+64.9 secs;14;2
+2012/04/22;10;7;Michael Schumacher;Mercedes;57;+71.4 secs;22;1
+2012/04/22;11;15;Sergio Perez;Sauber-Ferrari;57;+72.7 secs;8;0
+2012/04/22;12;12;Nico Hulkenberg;Force India-Mercedes;57;+76.5 secs;13;0
+2012/04/22;13;14;Kamui Kobayashi;Sauber-Ferrari;57;+90.3 secs;12;0
+2012/04/22;14;17;Jean-Eric Vergne;STR-Ferrari;57;+93.7 secs;17;0
+2012/04/22;15;16;Daniel Ricciardo;STR-Ferrari;56;+1 Lap;6;0
+2012/04/22;16;21;Vitaly Petrov;Caterham-Renault;56;+1 Lap;18;0
+2012/04/22;17;20;Heikki Kovalainen;Caterham-Renault;56;+1 Lap;16;0
+2012/04/22;18;3;Jenson Button;McLaren-Mercedes;55;Exhaust/differential;4;0
+2012/04/22;19;24;Timo Glock;Marussia-Cosworth;55;+2 Laps;23;0
+2012/04/22;20;22;Pedro de la Rosa;HRT-Cosworth;55;+2 Laps;20;0
+2012/04/22;21;23;Narain Karthikeyan;HRT-Cosworth;55;+2 Laps;24;0
+2012/04/22;22;19;Bruno Senna;Williams-Renault;54;Retired;15;0
+2012/04/22;Ret;18;Pastor Maldonado;Williams-Renault;25;Puncture;21;0
+2012/04/22;Ret;25;Charles Pic;Marussia-Cosworth;24;Engine;19;0
+2012/05/13;1;18;Pastor Maldonado;Williams-Renault;66;1:39:09.145;1;25
+2012/05/13;2;5;Fernando Alonso;Ferrari;66;+3.1 secs;2;18
+2012/05/13;3;9;Kimi Raikkonen;Lotus-Renault;66;+3.8 secs;4;15
+2012/05/13;4;10;Romain Grosjean;Lotus-Renault;66;+14.7 secs;3;12
+2012/05/13;5;14;Kamui Kobayashi;Sauber-Ferrari;66;+64.6 secs;9;10
+2012/05/13;6;1;Sebastian Vettel;Red Bull Racing-Renault;66;+67.5 secs;7;8
+2012/05/13;7;8;Nico Rosberg;Mercedes;66;+77.9 secs;6;6
+2012/05/13;8;4;Lewis Hamilton;McLaren-Mercedes;66;+78.1 secs;24;4
+2012/05/13;9;3;Jenson Button;McLaren-Mercedes;66;+85.2 secs;10;2
+2012/05/13;10;12;Nico Hulkenberg;Force India-Mercedes;65;+1 Lap;13;1
+2012/05/13;11;2;Mark Webber;Red Bull Racing-Renault;65;+1 Lap;11;0
+2012/05/13;12;17;Jean-Eric Vergne;STR-Ferrari;65;+1 Lap;14;0
+2012/05/13;13;16;Daniel Ricciardo;STR-Ferrari;65;+1 Lap;15;0
+2012/05/13;14;11;Paul di Resta;Force India-Mercedes;65;+1 Lap;12;0
+2012/05/13;15;6;Felipe Massa;Ferrari;65;+1 Lap;16;0
+2012/05/13;16;20;Heikki Kovalainen;Caterham-Renault;65;+1 Lap;19;0
+2012/05/13;17;21;Vitaly Petrov;Caterham-Renault;65;+1 Lap;18;0
+2012/05/13;18;24;Timo Glock;Marussia-Cosworth;64;+2 Laps;21;0
+2012/05/13;19;22;Pedro de la Rosa;HRT-Cosworth;63;+3 Laps;22;0
+2012/05/13;Ret;15;Sergio Perez;Sauber-Ferrari;37;Transmission;5;0
+2012/05/13;Ret;25;Charles Pic;Marussia-Cosworth;35;Driveshaft;20;0
+2012/05/13;Ret;23;Narain Karthikeyan;HRT-Cosworth;22;Wheel nut;23;0
+2012/05/13;Ret;19;Bruno Senna;Williams-Renault;12;Accident damage;17;0
+2012/05/13;Ret;7;Michael Schumacher;Mercedes;12;Accident;8;0
+2012/05/27;1;2;Mark Webber;Red Bull Racing-Renault;78;1:46:06.557;1;25
+2012/05/27;2;8;Nico Rosberg;Mercedes;78;+0.6 secs;2;18
+2012/05/27;3;5;Fernando Alonso;Ferrari;78;+0.9 secs;5;15
+2012/05/27;4;1;Sebastian Vettel;Red Bull Racing-Renault;78;+1.3 secs;9;12
+2012/05/27;5;4;Lewis Hamilton;McLaren-Mercedes;78;+4.1 secs;3;10
+2012/05/27;6;6;Felipe Massa;Ferrari;78;+6.1 secs;7;8
+2012/05/27;7;11;Paul di Resta;Force India-Mercedes;78;+41.5 secs;14;6
+2012/05/27;8;12;Nico Hulkenberg;Force India-Mercedes;78;+42.5 secs;10;4
+2012/05/27;9;9;Kimi Raikkonen;Lotus-Renault;78;+44.0 secs;8;2
+2012/05/27;10;19;Bruno Senna;Williams-Renault;78;+44.5 secs;13;1
+2012/05/27;11;15;Sergio Perez;Sauber-Ferrari;77;+1 Lap;23;0
+2012/05/27;12;17;Jean-Eric Vergne;STR-Ferrari;77;+1 Lap;16;0
+2012/05/27;13;20;Heikki Kovalainen;Caterham-Renault;77;+1 Lap;17;0
+2012/05/27;14;24;Timo Glock;Marussia-Cosworth;77;+1 Lap;19;0
+2012/05/27;15;23;Narain Karthikeyan;HRT-Cosworth;76;+2 Laps;22;0
+2012/05/27;16;3;Jenson Button;McLaren-Mercedes;70;Accident damage;12;0
+2012/05/27;Ret;16;Daniel Ricciardo;STR-Ferrari;65;Steering damage;15;0
+2012/05/27;Ret;25;Charles Pic;Marussia-Cosworth;64;Electrical;21;0
+2012/05/27;Ret;7;Michael Schumacher;Mercedes;63;Fuel pressure;6;0
+2012/05/27;Ret;21;Vitaly Petrov;Caterham-Renault;15;Electrical;18;0
+2012/05/27;Ret;14;Kamui Kobayashi;Sauber-Ferrari;5;Accident damage;11;0
+2012/05/27;Ret;22;Pedro de la Rosa;HRT-Cosworth;0;Accident damage;20;0
+2012/05/27;Ret;18;Pastor Maldonado;Williams-Renault;0;Accident;24;0
+2012/05/27;Ret;10;Romain Grosjean;Lotus-Renault;0;Accident;4;0
+2012/06/10;1;4;Lewis Hamilton;McLaren-Mercedes;70;1:32:29.586;2;25
+2012/06/10;2;10;Romain Grosjean;Lotus-Renault;70;+2.5 secs;7;18
+2012/06/10;3;15;Sergio Perez;Sauber-Ferrari;70;+5.2 secs;15;15
+2012/06/10;4;1;Sebastian Vettel;Red Bull Racing-Renault;70;+7.2 secs;1;12
+2012/06/10;5;5;Fernando Alonso;Ferrari;70;+13.4 secs;3;10
+2012/06/10;6;8;Nico Rosberg;Mercedes;70;+13.8 secs;5;8
+2012/06/10;7;2;Mark Webber;Red Bull Racing-Renault;70;+15.0 secs;4;6
+2012/06/10;8;9;Kimi Raikkonen;Lotus-Renault;70;+15.5 secs;12;4
+2012/06/10;9;14;Kamui Kobayashi;Sauber-Ferrari;70;+24.4 secs;11;2
+2012/06/10;10;6;Felipe Massa;Ferrari;70;+25.2 secs;6;1
+2012/06/10;11;11;Paul di Resta;Force India-Mercedes;70;+37.6 secs;8;0
+2012/06/10;12;12;Nico Hulkenberg;Force India-Mercedes;70;+46.2 secs;13;0
+2012/06/10;13;18;Pastor Maldonado;Williams-Renault;70;+47.0 secs;22;0
+2012/06/10;14;16;Daniel Ricciardo;STR-Ferrari;70;+64.4 secs;14;0
+2012/06/10;15;17;Jean-Eric Vergne;STR-Ferrari;69;+1 Lap;19;0
+2012/06/10;16;3;Jenson Button;McLaren-Mercedes;69;+1 Lap;10;0
+2012/06/10;17;19;Bruno Senna;Williams-Renault;69;+1 Lap;16;0
+2012/06/10;18;20;Heikki Kovalainen;Caterham-Renault;69;+1 Lap;17;0
+2012/06/10;19;21;Vitaly Petrov;Caterham-Renault;69;+1 Lap;18;0
+2012/06/10;20;25;Charles Pic;Marussia-Cosworth;67;+3 Laps;23;0
+2012/06/10;Ret;24;Timo Glock;Marussia-Cosworth;56;Brakes;21;0
+2012/06/10;Ret;7;Michael Schumacher;Mercedes;43;Rear wing;9;0
+2012/06/10;Ret;22;Pedro de la Rosa;HRT-Cosworth;24;Brakes;20;0
+2012/06/10;Ret;23;Narain Karthikeyan;HRT-Cosworth;22;Brakes;24;0
+2012/06/24;1;5;Fernando Alonso;Ferrari;57;1:44:16.649;11;25
+2012/06/24;2;9;Kimi Raikkonen;Lotus-Renault;57;+6.4 secs;5;18
+2012/06/24;3;7;Michael Schumacher;Mercedes;57;+12.6 secs;12;15
+2012/06/24;4;2;Mark Webber;Red Bull Racing-Renault;57;+13.6 secs;19;12
+2012/06/24;5;12;Nico Hulkenberg;Force India-Mercedes;57;+19.9 secs;8;10
+2012/06/24;6;8;Nico Rosberg;Mercedes;57;+21.1 secs;6;8
+2012/06/24;7;11;Paul di Resta;Force India-Mercedes;57;+22.8 secs;10;6
+2012/06/24;8;3;Jenson Button;McLaren-Mercedes;57;+24.6 secs;9;4
+2012/06/24;9;15;Sergio Perez;Sauber-Ferrari;57;+27.7 secs;15;2
+2012/06/24;10;19;Bruno Senna;Williams-Renault;57;+35.9 secs;14;1
+2012/06/24;11;16;Daniel Ricciardo;STR-Ferrari;57;+37.0 secs;17;0
+2012/06/24;12;18;Pastor Maldonado;Williams-Renault;57;+54.6 secs;3;0
+2012/06/24;13;21;Vitaly Petrov;Caterham-Renault;57;+75.8 secs;20;0
+2012/06/24;14;20;Heikki Kovalainen;Caterham-Renault;57;+94.6 secs;16;0
+2012/06/24;15;25;Charles Pic;Marussia-Cosworth;57;+96.5 secs;23;0
+2012/06/24;16;6;Felipe Massa;Ferrari;56;+1 Lap;13;0
+2012/06/24;17;22;Pedro de la Rosa;HRT-Cosworth;56;+1 Lap;21;0
+2012/06/24;18;23;Narain Karthikeyan;HRT-Cosworth;56;+1 Lap;22;0
+2012/06/24;19;4;Lewis Hamilton;McLaren-Mercedes;55;Accident;2;0
+2012/06/24;Ret;10;Romain Grosjean;Lotus-Renault;40;Alternator;4;0
+2012/06/24;Ret;1;Sebastian Vettel;Red Bull Racing-Renault;33;Alternator;1;0
+2012/06/24;Ret;14;Kamui Kobayashi;Sauber-Ferrari;33;Accident damage;7;0
+2012/06/24;Ret;17;Jean-Eric Vergne;STR-Ferrari;26;Accident damage;18;0
+2012/06/24;DNS;24;Timo Glock;Marussia-Cosworth;0;DNS;0;0
+2012/07/08;1;2;Mark Webber;Red Bull Racing-Renault;52;1:25:11.288;2;25
+2012/07/08;2;5;Fernando Alonso;Ferrari;52;+3.0 secs;1;18
+2012/07/08;3;1;Sebastian Vettel;Red Bull Racing-Renault;52;+4.8 secs;4;15
+2012/07/08;4;6;Felipe Massa;Ferrari;52;+9.5 secs;5;12
+2012/07/08;5;9;Kimi Raikkonen;Lotus-Renault;52;+10.3 secs;6;10
+2012/07/08;6;10;Romain Grosjean;Lotus-Renault;52;+17.1 secs;9;8
+2012/07/08;7;7;Michael Schumacher;Mercedes;52;+29.1 secs;3;6
+2012/07/08;8;4;Lewis Hamilton;McLaren-Mercedes;52;+36.4 secs;8;4
+2012/07/08;9;19;Bruno Senna;Williams-Renault;52;+43.3 secs;13;2
+2012/07/08;10;3;Jenson Button;McLaren-Mercedes;52;+44.4 secs;16;1
+2012/07/08;11;14;Kamui Kobayashi;Sauber-Ferrari;52;+45.3 secs;17;0
+2012/07/08;12;12;Nico Hulkenberg;Force India-Mercedes;52;+47.8 secs;14;0
+2012/07/08;13;16;Daniel Ricciardo;STR-Ferrari;52;+51.2 secs;12;0
+2012/07/08;14;17;Jean-Eric Vergne;STR-Ferrari;52;+53.3 secs;23;0
+2012/07/08;15;8;Nico Rosberg;Mercedes;52;+57.3 secs;11;0
+2012/07/08;16;18;Pastor Maldonado;Williams-Renault;51;+1 Lap;7;0
+2012/07/08;17;20;Heikki Kovalainen;Caterham-Renault;51;+1 Lap;19;0
+2012/07/08;18;24;Timo Glock;Marussia-Cosworth;51;+1 Lap;20;0
+2012/07/08;19;25;Charles Pic;Marussia-Cosworth;51;+1 Lap;24;0
+2012/07/08;20;22;Pedro de la Rosa;HRT-Cosworth;50;+2 Laps;21;0
+2012/07/08;21;23;Narain Karthikeyan;HRT-Cosworth;50;+2 Laps;22;0
+2012/07/08;Ret;15;Sergio Perez;Sauber-Ferrari;11;Accident;15;0
+2012/07/08;Ret;11;Paul di Resta;Force India-Mercedes;2;Retired;10;0
+2012/07/08;DNS;21;Vitaly Petrov;Caterham-Renault;0;Engine;18;0
+2012/07/22;1;5;Fernando Alonso;Ferrari;67;1:31:05.862;1;25
+2012/07/22;2;3;Jenson Button;McLaren-Mercedes;67;+6.9 secs;6;18
+2012/07/22;3;9;Kimi Raikkonen;Lotus-Renault;67;+16.4 secs;10;15
+2012/07/22;4;14;Kamui Kobayashi;Sauber-Ferrari;67;+21.9 secs;12;12
+2012/07/22;5;1;Sebastian Vettel;Red Bull Racing-Renault;67;+23.7 secs;2;10
+2012/07/22;6;15;Sergio Perez;Sauber-Ferrari;67;+27.8 secs;17;8
+2012/07/22;7;7;Michael Schumacher;Mercedes;67;+28.9 secs;3;6
+2012/07/22;8;2;Mark Webber;Red Bull Racing-Renault;67;+46.9 secs;8;4
+2012/07/22;9;12;Nico Hulkenberg;Force India-Mercedes;67;+48.1 secs;4;2
+2012/07/22;10;8;Nico Rosberg;Mercedes;67;+48.8 secs;21;1
+2012/07/22;11;11;Paul di Resta;Force India-Mercedes;67;+59.2 secs;9;0
+2012/07/22;12;6;Felipe Massa;Ferrari;67;+71.4 secs;13;0
+2012/07/22;13;16;Daniel Ricciardo;STR-Ferrari;67;+76.8 secs;11;0
+2012/07/22;14;17;Jean-Eric Vergne;STR-Ferrari;67;+76.9 secs;15;0
+2012/07/22;15;18;Pastor Maldonado;Williams-Renault;66;+1 Lap;5;0
+2012/07/22;16;21;Vitaly Petrov;Caterham-Renault;66;+1 Lap;18;0
+2012/07/22;17;19;Bruno Senna;Williams-Renault;66;+1 Lap;14;0
+2012/07/22;18;10;Romain Grosjean;Lotus-Renault;66;+1 Lap;19;0
+2012/07/22;19;20;Heikki Kovalainen;Caterham-Renault;65;+2 Laps;16;0
+2012/07/22;20;25;Charles Pic;Marussia-Cosworth;65;+2 Laps;20;0
+2012/07/22;21;22;Pedro de la Rosa;HRT-Cosworth;64;+3 Laps;23;0
+2012/07/22;22;24;Timo Glock;Marussia-Cosworth;64;+3 Laps;22;0
+2012/07/22;23;23;Narain Karthikeyan;HRT-Cosworth;64;+3 Laps;24;0
+2012/07/22;Ret;4;Lewis Hamilton;McLaren-Mercedes;56;Puncture damage;7;0
+2012/07/29;1;4;Lewis Hamilton;McLaren-Mercedes;69;1:41:05.503;1;25
+2012/07/29;2;9;Kimi Raikkonen;Lotus-Renault;69;+1.0 secs;5;18
+2012/07/29;3;10;Romain Grosjean;Lotus-Renault;69;+10.5 secs;2;15
+2012/07/29;4;1;Sebastian Vettel;Red Bull Racing-Renault;69;+11.6 secs;3;12
+2012/07/29;5;5;Fernando Alonso;Ferrari;69;+26.6 secs;6;10
+2012/07/29;6;3;Jenson Button;McLaren-Mercedes;69;+30.2 secs;4;8
+2012/07/29;7;19;Bruno Senna;Williams-Renault;69;+33.8 secs;9;6
+2012/07/29;8;2;Mark Webber;Red Bull Racing-Renault;69;+34.4 secs;11;4
+2012/07/29;9;6;Felipe Massa;Ferrari;69;+38.3 secs;7;2
+2012/07/29;10;8;Nico Rosberg;Mercedes;69;+51.2 secs;13;1
+2012/07/29;11;12;Nico Hulkenberg;Force India-Mercedes;69;+57.2 secs;10;0
+2012/07/29;12;11;Paul di Resta;Force India-Mercedes;69;+62.8 secs;12;0
+2012/07/29;13;18;Pastor Maldonado;Williams-Renault;69;+63.6 secs;8;0
+2012/07/29;14;15;Sergio Perez;Sauber-Ferrari;69;+64.4 secs;14;0
+2012/07/29;15;16;Daniel Ricciardo;STR-Ferrari;68;+1 Lap;18;0
+2012/07/29;16;17;Jean-Eric Vergne;STR-Ferrari;68;+1 Lap;16;0
+2012/07/29;17;20;Heikki Kovalainen;Caterham-Renault;68;+1 Lap;19;0
+2012/07/29;18;14;Kamui Kobayashi;Sauber-Ferrari;67;Hydraulics;15;0
+2012/07/29;19;21;Vitaly Petrov;Caterham-Renault;67;+2 Laps;20;0
+2012/07/29;20;25;Charles Pic;Marussia-Cosworth;67;+2 Laps;21;0
+2012/07/29;21;24;Timo Glock;Marussia-Cosworth;66;+3 Laps;22;0
+2012/07/29;22;22;Pedro de la Rosa;HRT-Cosworth;66;+3 Laps;23;0
+2012/07/29;Ret;23;Narain Karthikeyan;HRT-Cosworth;60;Steering;24;0
+2012/07/29;Ret;7;Michael Schumacher;Mercedes;58;Technical;17;0
+2012/09/02;1;3;Jenson Button;McLaren-Mercedes;44;1:29:08.530;1;25
+2012/09/02;2;1;Sebastian Vettel;Red Bull Racing-Renault;44;+13.6 secs;10;18
+2012/09/02;3;9;Kimi Raikkonen;Lotus-Renault;44;+25.3 secs;3;15
+2012/09/02;4;12;Nico Hulkenberg;Force India-Mercedes;44;+27.8 secs;11;12
+2012/09/02;5;6;Felipe Massa;Ferrari;44;+29.8 secs;14;10
+2012/09/02;6;2;Mark Webber;Red Bull Racing-Renault;44;+31.2 secs;12;8
+2012/09/02;7;7;Michael Schumacher;Mercedes;44;+53.3 secs;13;6
+2012/09/02;8;17;Jean-Eric Vergne;STR-Ferrari;44;+58.8 secs;15;4
+2012/09/02;9;16;Daniel Ricciardo;STR-Ferrari;44;+62.9 secs;16;2
+2012/09/02;10;11;Paul di Resta;Force India-Mercedes;44;+63.7 secs;9;1
+2012/09/02;11;8;Nico Rosberg;Mercedes;44;+65.1 secs;23;0
+2012/09/02;12;19;Bruno Senna;Williams-Renault;44;+71.5 secs;17;0
+2012/09/02;13;14;Kamui Kobayashi;Sauber-Ferrari;43;+1 Lap;2;0
+2012/09/02;14;21;Vitaly Petrov;Caterham-Renault;43;+1 Lap;19;0
+2012/09/02;15;24;Timo Glock;Marussia-Cosworth;43;+1 Lap;20;0
+2012/09/02;16;25;Charles Pic;Marussia-Cosworth;43;+1 Lap;22;0
+2012/09/02;17;20;Heikki Kovalainen;Caterham-Renault;43;+1 Lap;18;0
+2012/09/02;18;22;Pedro de la Rosa;HRT-Cosworth;43;+1 Lap;21;0
+2012/09/02;Ret;23;Narain Karthikeyan;HRT-Cosworth;29;Accident;24;0
+2012/09/02;Ret;18;Pastor Maldonado;Williams-Renault;4;Accident;6;0
+2012/09/02;Ret;15;Sergio Perez;Sauber-Ferrari;0;Accident;4;0
+2012/09/02;Ret;5;Fernando Alonso;Ferrari;0;Accident;5;0
+2012/09/02;Ret;4;Lewis Hamilton;McLaren-Mercedes;0;Accident;7;0
+2012/09/02;Ret;10;Romain Grosjean;Lotus-Renault;0;Accident;8;0

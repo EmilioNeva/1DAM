@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">id_hotel</Data></Cell>
+			<Cell><Data ss:Type="String">nombre_h</Data></Cell>
+			<Cell><Data ss:Type="String">direccion_h</Data></Cell>
+			<Cell><Data ss:Type="String">tlf_h</Data></Cell>
+			<Cell><Data ss:Type="String">año_const</Data></Cell>
+			<Cell><Data ss:Type="String">id_cat</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+			<Cell><Data ss:Type="String">Hotel Royal</Data></Cell>
+			<Cell><Data ss:Type="String">Avenida de los Reyes</Data></Cell>
+			<Cell><Data ss:Type="String">123456789</Data></Cell>
+			<Cell><Data ss:Type="String">2024-01-01</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+			<Cell><Data ss:Type="String">Hotel Martinica</Data></Cell>
+			<Cell><Data ss:Type="String">Calle Bogotá</Data></Cell>
+			<Cell><Data ss:Type="String">987654321</Data></Cell>
+			<Cell><Data ss:Type="String">2024-01-02</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">3</Data></Cell>
+			<Cell><Data ss:Type="String">Hotel Royal</Data></Cell>
+			<Cell><Data ss:Type="String">Avenida de los Reyes</Data></Cell>
+			<Cell><Data ss:Type="String">123456789</Data></Cell>
+			<Cell><Data ss:Type="String">2024-01-01</Data></Cell>
+			<Cell><Data ss:Type="Number">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">4</Data></Cell>
+			<Cell><Data ss:Type="String">Hotel Martinica</Data></Cell>
+			<Cell><Data ss:Type="String">Calle Bogotá</Data></Cell>
+			<Cell><Data ss:Type="String">987654321</Data></Cell>
+			<Cell><Data ss:Type="String">2024-01-02</Data></Cell>
+			<Cell><Data ss:Type="Number">2</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

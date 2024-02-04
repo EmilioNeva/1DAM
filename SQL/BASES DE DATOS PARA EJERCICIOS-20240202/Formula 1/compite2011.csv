@@ -1,0 +1,457 @@
+FECHA;PUESTOLLEGADA;NUMAUTO;NOMBREPILOTO;EQUIPO;VUELTAS;TPOCARRERA;PUESTOPARRILLA;PUNTOSCARRERA
+2011/03/27;1;1;Sebastian Vettel;RBR-Renault;58;1:29:30.259;1;25
+2011/03/27;2;3;Lewis Hamilton;McLaren-Mercedes;58;+22.2 secs;2;18
+2011/03/27;3;10;Vitaly Petrov;Renault;58;+30.5 secs;6;15
+2011/03/27;4;5;Fernando Alonso;Ferrari;58;+31.7 secs;5;12
+2011/03/27;5;2;Mark Webber;RBR-Renault;58;+38.1 secs;3;10
+2011/03/27;6;4;Jenson Button;McLaren-Mercedes;58;+54.3 secs;4;8
+2011/03/27;7;6;Felipe Massa;Ferrari;58;+85.1 secs;8;6
+2011/03/27;8;18;Sebastien Buemi;STR-Ferrari;57;+1 Lap;10;4
+2011/03/27;9;14;Adrian Sutil;Force India-Mercedes;57;+1 Lap;16;2
+2011/03/27;10;15;Paul di Resta;Force India-Mercedes;57;+1 Lap;14;1
+2011/03/27;11;19;Jaime Alguersuari;STR-Ferrari;57;+1 Lap;12;0
+2011/03/27;12;9;Nick Heidfeld;Renault;57;+1 Lap;18;0
+2011/03/27;13;21;Jarno Trulli;Lotus-Renault;56;+2 Laps;20;0
+2011/03/27;14;25;Jerome d Ambrosio;Virgin-Cosworth;54;+4 Laps;22;0
+2011/03/27;NC;24;Timo Glock;Virgin-Cosworth;49;+9 Laps;21;0
+2011/03/27;DSQ;17;Sergio Perez;Sauber-Ferrari;58;+65.8 secs;13;0
+2011/03/27;DSQ;16;Kamui Kobayashi;Sauber-Ferrari;58;+76.8 secs;9;0
+2011/03/27;Ret;11;Rubens Barrichello;Williams-Cosworth;48;Transmission;17;0
+2011/03/27;Ret;8;Nico Rosberg;Mercedes;22;Accident damage;7;0
+2011/03/27;Ret;20;Heikki Kovalainen;Lotus-Renault;19;Water leak;19;0
+2011/03/27;Ret;7;Michael Schumacher;Mercedes;19;Puncture damage;11;0
+2011/03/27;Ret;12;Pastor Maldonado;Williams-Cosworth;9;Transmission;15;0
+2011/03/27;DNQ;22;Narain Karthikeyan;HRT-Cosworth;0;0;0;0
+2011/03/27;DNQ;23;Vitantonio Liuzzi;HRT-Cosworth;0;0;0;0
+2011/04/10;1;1;Sebastian Vettel;RBR-Renault;56;1:37:39.832;1;25
+2011/04/10;2;4;Jenson Button;McLaren-Mercedes;56;+3.2 secs;4;18
+2011/04/10;3;9;Nick Heidfeld;Renault;56;+25.0 secs;6;15
+2011/04/10;4;2;Mark Webber;RBR-Renault;56;+26.3 secs;3;12
+2011/04/10;5;6;Felipe Massa;Ferrari;56;+36.9 secs;7;10
+2011/04/10;6;5;Fernando Alonso;Ferrari;56;+57.2 secs;5;8
+2011/04/10;7;16;Kamui Kobayashi;Sauber-Ferrari;56;+66.4 secs;10;6
+2011/04/10;8;3;Lewis Hamilton;McLaren-Mercedes;56;+69.9 secs;2;4
+2011/04/10;9;7;Michael Schumacher;Mercedes;56;+84.8 secs;11;2
+2011/04/10;10;15;Paul di Resta;Force India-Mercedes;56;+91.5 secs;14;1
+2011/04/10;11;14;Adrian Sutil;Force India-Mercedes;56;+101.3 secs;17;0
+2011/04/10;12;8;Nico Rosberg;Mercedes;55;+1 Lap;9;0
+2011/04/10;13;18;Sebastien Buemi;STR-Ferrari;55;+1 Lap;12;0
+2011/04/10;14;19;Jaime Alguersuari;STR-Ferrari;55;+1 Lap;13;0
+2011/04/10;15;20;Heikki Kovalainen;Lotus-Renault;55;+1 Lap;19;0
+2011/04/10;16;24;Timo Glock;Virgin-Cosworth;54;+2 Laps;21;0
+2011/04/10;17;10;Vitaly Petrov;Renault;52;Accident;8;0
+2011/04/10;Ret;23;Vitantonio Liuzzi;HRT-Cosworth;46;Rear wing issue;23;0
+2011/04/10;Ret;25;Jerome d Ambrosio;Virgin-Cosworth;42;Accident;22;0
+2011/04/10;Ret;21;Jarno Trulli;Lotus-Renault;31;Clutch;20;0
+2011/04/10;Ret;17;Sergio Perez;Sauber-Ferrari;23;Accident;16;0
+2011/04/10;Ret;11;Rubens Barrichello;Williams-Cosworth;22;Hydraulics;15;0
+2011/04/10;Ret;22;Narain Karthikeyan;HRT-Cosworth;14;Hydraulics;24;0
+2011/04/10;Ret;12;Pastor Maldonado;Williams-Cosworth;8;Engine misfire;18;0
+2011/04/17;1;3;Lewis Hamilton;McLaren-Mercedes;56;1:36:58.226;3;25
+2011/04/17;2;1;Sebastian Vettel;RBR-Renault;56;+5.1 secs;1;18
+2011/04/17;3;2;Mark Webber;RBR-Renault;56;+7.5 secs;18;15
+2011/04/17;4;4;Jenson Button;McLaren-Mercedes;56;+10.0 secs;2;12
+2011/04/17;5;8;Nico Rosberg;Mercedes;56;+13.4 secs;4;10
+2011/04/17;6;6;Felipe Massa;Ferrari;56;+15.8 secs;6;8
+2011/04/17;7;5;Fernando Alonso;Ferrari;56;+30.6 secs;5;6
+2011/04/17;8;7;Michael Schumacher;Mercedes;56;+31.0 secs;14;4
+2011/04/17;9;10;Vitaly Petrov;Renault;56;+57.4 secs;10;2
+2011/04/17;10;16;Kamui Kobayashi;Sauber-Ferrari;56;+63.2 secs;13;1
+2011/04/17;11;15;Paul di Resta;Force India-Mercedes;56;+68.7 secs;8;0
+2011/04/17;12;9;Nick Heidfeld;Renault;56;+72.7 secs;16;0
+2011/04/17;13;11;Rubens Barrichello;Williams-Cosworth;56;+90.1 secs;15;0
+2011/04/17;14;18;Sebastien Buemi;STR-Ferrari;56;+90.6 secs;9;0
+2011/04/17;15;14;Adrian Sutil;Force India-Mercedes;55;+1 Lap;11;0
+2011/04/17;16;20;Heikki Kovalainen;Lotus-Renault;55;+1 Lap;19;0
+2011/04/17;17;17;Sergio Perez;Sauber-Ferrari;55;+1 Lap;12;0
+2011/04/17;18;12;Pastor Maldonado;Williams-Cosworth;55;+1 Lap;17;0
+2011/04/17;19;21;Jarno Trulli;Lotus-Renault;55;+1 Lap;20;0
+2011/04/17;20;25;Jerome d Ambrosio;Virgin-Cosworth;54;+2 Laps;21;0
+2011/04/17;21;24;Timo Glock;Virgin-Cosworth;54;+2 Laps;22;0
+2011/04/17;22;23;Vitantonio Liuzzi;HRT-Cosworth;54;+2 Laps;23;0
+2011/04/17;23;22;Narain Karthikeyan;HRT-Cosworth;54;+2 Laps;24;0
+2011/04/17;Ret;19;Jaime Alguersuari;STR-Ferrari;9;Wheel;7;0
+2011/05/08;1;1;Sebastian Vettel;RBR-Renault;58;1:30:17.558;1;25
+2011/05/08;2;2;Mark Webber;RBR-Renault;58;+8.8 secs;2;18
+2011/05/08;3;5;Fernando Alonso;Ferrari;58;+10.0 secs;5;15
+2011/05/08;4;3;Lewis Hamilton;McLaren-Mercedes;58;+40.2 secs;4;12
+2011/05/08;5;8;Nico Rosberg;Mercedes;58;+47.5 secs;3;10
+2011/05/08;6;4;Jenson Button;McLaren-Mercedes;58;+59.4 secs;6;8
+2011/05/08;7;9;Nick Heidfeld;Renault;58;+60.8 secs;9;6
+2011/05/08;8;10;Vitaly Petrov;Renault;58;+68.1 secs;7;4
+2011/05/08;9;18;Sebastien Buemi;STR-Ferrari;58;+69.3 secs;16;2
+2011/05/08;10;16;Kamui Kobayashi;Sauber-Ferrari;58;+78.0 secs;24;1
+2011/05/08;11;6;Felipe Massa;Ferrari;58;+79.8 secs;10;0
+2011/05/08;12;7;Michael Schumacher;Mercedes;58;+85.4 secs;8;0
+2011/05/08;13;14;Adrian Sutil;Force India-Mercedes;57;+1 Lap;12;0
+2011/05/08;14;17;Sergio Perez;Sauber-Ferrari;57;+1 Lap;15;0
+2011/05/08;15;11;Rubens Barrichello;Williams-Cosworth;57;+1 Lap;11;0
+2011/05/08;16;19;Jaime Alguersuari;STR-Ferrari;57;+1 Lap;17;0
+2011/05/08;17;12;Pastor Maldonado;Williams-Cosworth;57;+1 Lap;14;0
+2011/05/08;18;21;Jarno Trulli;Lotus-Renault;57;+1 Lap;19;0
+2011/05/08;19;20;Heikki Kovalainen;Lotus-Renault;56;+2 Laps;18;0
+2011/05/08;20;25;Jerome d Ambrosio;Virgin-Cosworth;56;+2 Laps;23;0
+2011/05/08;21;22;Narain Karthikeyan;HRT-Cosworth;55;+3 Laps;22;0
+2011/05/08;22;23;Vitantonio Liuzzi;HRT-Cosworth;53;+5 Laps;20;0
+2011/05/08;Ret;15;Paul di Resta;Force India-Mercedes;44;Retired;13;0
+2011/05/08;DNS;24;Timo Glock;Virgin-Cosworth;0;Gearbox;21;0
+2011/05/22;1;1;Sebastian Vettel;RBR-Renault;66;1:39:03.301;2;25
+2011/05/22;2;3;Lewis Hamilton;McLaren-Mercedes;66;+0.6 secs;3;18
+2011/05/22;3;4;Jenson Button;McLaren-Mercedes;66;+35.6 secs;5;15
+2011/05/22;4;2;Mark Webber;RBR-Renault;66;+47.9 secs;1;12
+2011/05/22;5;5;Fernando Alonso;Ferrari;65;+1 Lap;4;10
+2011/05/22;6;7;Michael Schumacher;Mercedes;65;+1 Lap;10;8
+2011/05/22;7;8;Nico Rosberg;Mercedes;65;+1 Lap;7;6
+2011/05/22;8;9;Nick Heidfeld;Renault;65;+1 Lap;24;4
+2011/05/22;9;17;Sergio Perez;Sauber-Ferrari;65;+1 Lap;12;2
+2011/05/22;10;16;Kamui Kobayashi;Sauber-Ferrari;65;+1 Lap;14;1
+2011/05/22;11;10;Vitaly Petrov;Renault;65;+1 Lap;6;0
+2011/05/22;12;15;Paul di Resta;Force India-Mercedes;65;+1 Lap;16;0
+2011/05/22;13;14;Adrian Sutil;Force India-Mercedes;65;+1 Lap;17;0
+2011/05/22;14;18;Sebastien Buemi;STR-Ferrari;65;+1 Lap;11;0
+2011/05/22;15;12;Pastor Maldonado;Williams-Cosworth;65;+1 Lap;9;0
+2011/05/22;16;19;Jaime Alguersuari;STR-Ferrari;64;+2 Laps;13;0
+2011/05/22;17;11;Rubens Barrichello;Williams-Cosworth;64;+2 Laps;19;0
+2011/05/22;18;21;Jarno Trulli;Lotus-Renault;64;+2 Laps;18;0
+2011/05/22;19;24;Timo Glock;Virgin-Cosworth;63;+3 Laps;20;0
+2011/05/22;20;25;Jerome d Ambrosio;Virgin-Cosworth;62;+4 Laps;23;0
+2011/05/22;21;22;Narain Karthikeyan;HRT-Cosworth;61;+5 Laps;22;0
+2011/05/22;Ret;6;Felipe Massa;Ferrari;58;Gearbox;8;0
+2011/05/22;Ret;20;Heikki Kovalainen;Lotus-Renault;48;Accident;15;0
+2011/05/22;Ret;23;Vitantonio Liuzzi;HRT-Cosworth;28;Gearbox;21;0
+2011/05/29;1;1;Sebastian Vettel;RBR-Renault;78;2:09:38.373;1;25
+2011/05/29;2;5;Fernando Alonso;Ferrari;78;+1.1 secs;4;18
+2011/05/29;3;4;Jenson Button;McLaren-Mercedes;78;+2.3 secs;2;15
+2011/05/29;4;2;Mark Webber;RBR-Renault;78;+23.1 secs;3;12
+2011/05/29;5;16;Kamui Kobayashi;Sauber-Ferrari;78;+26.9 secs;12;10
+2011/05/29;6;3;Lewis Hamilton;McLaren-Mercedes;78;+47.2 secs;9;8
+2011/05/29;7;14;Adrian Sutil;Force India-Mercedes;77;+1 Lap;14;6
+2011/05/29;8;9;Nick Heidfeld;Renault;77;+1 Lap;15;4
+2011/05/29;9;11;Rubens Barrichello;Williams-Cosworth;77;+1 Lap;11;2
+2011/05/29;10;18;Sebastien Buemi;STR-Ferrari;77;+1 Lap;16;1
+2011/05/29;11;8;Nico Rosberg;Mercedes;76;+2 Laps;7;0
+2011/05/29;12;15;Paul di Resta;Force India-Mercedes;76;+2 Laps;13;0
+2011/05/29;13;21;Jarno Trulli;Lotus-Renault;76;+2 Laps;18;0
+2011/05/29;14;20;Heikki Kovalainen;Lotus-Renault;76;+2 Laps;17;0
+2011/05/29;15;25;Jerome d Ambrosio;Virgin-Cosworth;75;+3 Laps;21;0
+2011/05/29;16;23;Vitantonio Liuzzi;HRT-Cosworth;75;+3 Laps;23;0
+2011/05/29;17;22;Narain Karthikeyan;HRT-Cosworth;74;+4 Laps;22;0
+2011/05/29;18;12;Pastor Maldonado;Williams-Cosworth;73;Accident;8;0
+2011/05/29;Ret;10;Vitaly Petrov;Renault;67;Accident;10;0
+2011/05/29;Ret;19;Jaime Alguersuari;STR-Ferrari;66;Accident;19;0
+2011/05/29;Ret;6;Felipe Massa;Ferrari;32;Accident;6;0
+2011/05/29;Ret;7;Michael Schumacher;Mercedes;32;Airbox fire;5;0
+2011/05/29;Ret;24;Timo Glock;Virgin-Cosworth;30;Suspension;20;0
+2011/05/29;DNS;17;Sergio Perez;Sauber-Ferrari;0;0;0;0
+2011/06/12;1;4;Jenson Button;McLaren-Mercedes;70;4:04:39.537;7;25
+2011/06/12;2;1;Sebastian Vettel;RBR-Renault;70;+2.7 secs;1;18
+2011/06/12;3;2;Mark Webber;RBR-Renault;70;+13.8 secs;4;15
+2011/06/12;4;7;Michael Schumacher;Mercedes;70;+14.2 secs;8;12
+2011/06/12;5;10;Vitaly Petrov;Renault;70;+20.3 secs;10;10
+2011/06/12;6;6;Felipe Massa;Ferrari;70;+33.2 secs;3;8
+2011/06/12;7;16;Kamui Kobayashi;Sauber-Ferrari;70;+33.2 secs;13;6
+2011/06/12;8;19;Jaime Alguersuari;STR-Ferrari;70;+35.9 secs;24;4
+2011/06/12;9;11;Rubens Barrichello;Williams-Cosworth;70;+45.1 secs;16;2
+2011/06/12;10;18;Sebastien Buemi;STR-Ferrari;70;+47.0 secs;15;1
+2011/06/12;11;8;Nico Rosberg;Mercedes;70;+50.4 secs;6;0
+2011/06/12;12;17;Pedro de la Rosa;Sauber-Ferrari;70;+63.6 secs;17;0
+2011/06/12;13;23;Vitantonio Liuzzi;HRT-Cosworth;69;+1 Lap;20;0
+2011/06/12;14;25;Jerome d Ambrosio;Virgin-Cosworth;69;+1 Lap;23;0
+2011/06/12;15;24;Timo Glock;Virgin-Cosworth;69;+1 Lap;21;0
+2011/06/12;16;21;Jarno Trulli;Lotus-Renault;69;+1 Lap;18;0
+2011/06/12;17;22;Narain Karthikeyan;HRT-Cosworth;69;+1 Lap;22;0
+2011/06/12;18;15;Paul di Resta;Force India-Mercedes;67;Accident;11;0
+2011/06/12;Ret;12;Pastor Maldonado;Williams-Cosworth;61;Spun off;12;0
+2011/06/12;Ret;9;Nick Heidfeld;Renault;55;Accident;9;0
+2011/06/12;Ret;14;Adrian Sutil;Force India-Mercedes;49;Accident;14;0
+2011/06/12;Ret;5;Fernando Alonso;Ferrari;36;Accident;2;0
+2011/06/12;Ret;20;Heikki Kovalainen;Lotus-Renault;28;Driveshaft;19;0
+2011/06/12;Ret;3;Lewis Hamilton;McLaren-Mercedes;7;Accident;5;0
+2011/06/26;1;1;Sebastian Vettel;RBR-Renault;57;1:39:36.169;1;25
+2011/06/26;2;5;Fernando Alonso;Ferrari;57;+10.8 secs;4;18
+2011/06/26;3;2;Mark Webber;RBR-Renault;57;+27.2 secs;2;15
+2011/06/26;4;3;Lewis Hamilton;McLaren-Mercedes;57;+46.1 secs;3;12
+2011/06/26;5;6;Felipe Massa;Ferrari;57;+51.7 secs;5;10
+2011/06/26;6;4;Jenson Button;McLaren-Mercedes;57;+60.0 secs;6;8
+2011/06/26;7;8;Nico Rosberg;Mercedes;57;+98.0 secs;7;6
+2011/06/26;8;19;Jaime Alguersuari;STR-Ferrari;56;+1 Lap;18;4
+2011/06/26;9;14;Adrian Sutil;Force India-Mercedes;56;+1 Lap;10;2
+2011/06/26;10;9;Nick Heidfeld;Renault;56;+1 Lap;9;1
+2011/06/26;11;17;Sergio Perez;Sauber-Ferrari;56;+1 Lap;16;0
+2011/06/26;12;11;Rubens Barrichello;Williams-Cosworth;56;+1 Lap;13;0
+2011/06/26;13;18;Sebastien Buemi;STR-Ferrari;56;+1 Lap;17;0
+2011/06/26;14;15;Paul di Resta;Force India-Mercedes;56;+1 Lap;12;0
+2011/06/26;15;10;Vitaly Petrov;Renault;56;+1 Lap;11;0
+2011/06/26;16;16;Kamui Kobayashi;Sauber-Ferrari;56;+1 Lap;14;0
+2011/06/26;17;7;Michael Schumacher;Mercedes;56;+1 Lap;8;0
+2011/06/26;18;12;Pastor Maldonado;Williams-Cosworth;56;+1 Lap;15;0
+2011/06/26;19;20;Heikki Kovalainen;Lotus-Renault;55;+2 Laps;19;0
+2011/06/26;20;21;Jarno Trulli;Lotus-Renault;55;+2 Laps;20;0
+2011/06/26;21;24;Timo Glock;Virgin-Cosworth;55;+2 Laps;21;0
+2011/06/26;22;25;Jerome d Ambrosio;Virgin-Cosworth;55;+2 Laps;23;0
+2011/06/26;23;23;Vitantonio Liuzzi;HRT-Cosworth;54;+3 Laps;22;0
+2011/06/26;24;22;Narain Karthikeyan;HRT-Cosworth;54;+3 Laps;24;0
+2011/07/10;1;5;Fernando Alonso;Ferrari;52;1:28:41.196;3;25
+2011/07/10;2;1;Sebastian Vettel;RBR-Renault;52;+16.5 secs;2;18
+2011/07/10;3;2;Mark Webber;RBR-Renault;52;+16.9 secs;1;15
+2011/07/10;4;3;Lewis Hamilton;McLaren-Mercedes;52;+28.9 secs;10;12
+2011/07/10;5;6;Felipe Massa;Ferrari;52;+29.0 secs;4;10
+2011/07/10;6;8;Nico Rosberg;Mercedes;52;+60.6 secs;9;8
+2011/07/10;7;17;Sergio Perez;Sauber-Ferrari;52;+65.5 secs;12;6
+2011/07/10;8;9;Nick Heidfeld;Renault;52;+75.5 secs;16;4
+2011/07/10;9;7;Michael Schumacher;Mercedes;52;+77.9 secs;13;2
+2011/07/10;10;19;Jaime Alguersuari;STR-Ferrari;52;+79.1 secs;18;1
+2011/07/10;11;14;Adrian Sutil;Force India-Mercedes;52;+79.7 secs;11;0
+2011/07/10;12;10;Vitaly Petrov;Renault;52;+80.6 secs;14;0
+2011/07/10;13;11;Rubens Barrichello;Williams-Cosworth;51;+1 Lap;15;0
+2011/07/10;14;12;Pastor Maldonado;Williams-Cosworth;51;+1 Lap;7;0
+2011/07/10;15;15;Paul di Resta;Force India-Mercedes;51;+1 Lap;6;0
+2011/07/10;16;24;Timo Glock;Virgin-Cosworth;50;+2 Laps;20;0
+2011/07/10;17;25;Jerome d Ambrosio;Virgin-Cosworth;50;+2 Laps;22;0
+2011/07/10;18;23;Vitantonio Liuzzi;HRT-Cosworth;50;+2 Laps;23;0
+2011/07/10;19;22;Daniel Ricciardo;HRT-Cosworth;49;+3 Laps;24;0
+2011/07/10;Ret;4;Jenson Button;McLaren-Mercedes;39;Wheel nut;5;0
+2011/07/10;Ret;18;Sebastien Buemi;STR-Ferrari;25;Accident damage;19;0
+2011/07/10;Ret;16;Kamui Kobayashi;Sauber-Ferrari;23;Oil leak;8;0
+2011/07/10;Ret;21;Jarno Trulli;Lotus-Renault;10;Oil leak;21;0
+2011/07/10;Ret;20;Heikki Kovalainen;Lotus-Renault;2;Gearbox;17;0
+2011/07/24;1;3;Lewis Hamilton;McLaren-Mercedes;60;1:37:30.334;2;25
+2011/07/24;2;5;Fernando Alonso;Ferrari;60;+3.9 secs;4;18
+2011/07/24;3;2;Mark Webber;RBR-Renault;60;+9.7 secs;1;15
+2011/07/24;4;1;Sebastian Vettel;RBR-Renault;60;+47.9 secs;3;12
+2011/07/24;5;6;Felipe Massa;Ferrari;60;+52.2 secs;5;10
+2011/07/24;6;14;Adrian Sutil;Force India-Mercedes;60;+86.2 secs;8;8
+2011/07/24;7;8;Nico Rosberg;Mercedes;59;+1 Lap;6;6
+2011/07/24;8;7;Michael Schumacher;Mercedes;59;+1 Lap;10;4
+2011/07/24;9;16;Kamui Kobayashi;Sauber-Ferrari;59;+1 Lap;17;2
+2011/07/24;10;10;Vitaly Petrov;Renault;59;+1 Lap;9;1
+2011/07/24;11;17;Sergio Perez;Sauber-Ferrari;59;+1 Lap;15;0
+2011/07/24;12;19;Jaime Alguersuari;STR-Ferrari;59;+1 Lap;16;0
+2011/07/24;13;15;Paul di Resta;Force India-Mercedes;59;+1 Lap;12;0
+2011/07/24;14;12;Pastor Maldonado;Williams-Cosworth;59;+1 Lap;13;0
+2011/07/24;15;18;Sebastien Buemi;STR-Ferrari;59;+1 Lap;24;0
+2011/07/24;16;20;Heikki Kovalainen;Lotus-Renault;58;+2 Laps;18;0
+2011/07/24;17;24;Timo Glock;Virgin-Cosworth;57;+3 Laps;19;0
+2011/07/24;18;25;Jerome d Ambrosio;Virgin-Cosworth;57;+3 Laps;21;0
+2011/07/24;19;22;Daniel Ricciardo;HRT-Cosworth;57;+3 Laps;22;0
+2011/07/24;20;21;Karun Chandhok;Lotus-Renault;56;+4 Laps;20;0
+2011/07/24;Ret;23;Vitantonio Liuzzi;HRT-Cosworth;37;Electrical;23;0
+2011/07/24;Ret;4;Jenson Button;McLaren-Mercedes;35;Hydraulics;7;0
+2011/07/24;Ret;11;Rubens Barrichello;Williams-Cosworth;16;Oil leak;14;0
+2011/07/24;Ret;9;Nick Heidfeld;Renault;9;Accident;11;0
+2011/07/31;1;4;Jenson Button;McLaren-Mercedes;70;1:46:42.337;3;25
+2011/07/31;2;1;Sebastian Vettel;RBR-Renault;70;+3.5 secs;1;18
+2011/07/31;3;5;Fernando Alonso;Ferrari;70;+19.8 secs;5;15
+2011/07/31;4;3;Lewis Hamilton;McLaren-Mercedes;70;+48.3 secs;2;12
+2011/07/31;5;2;Mark Webber;RBR-Renault;70;+49.7 secs;6;10
+2011/07/31;6;6;Felipe Massa;Ferrari;70;+83.1 secs;4;8
+2011/07/31;7;15;Paul di Resta;Force India-Mercedes;69;+1 Lap;11;6
+2011/07/31;8;18;Sebastien Buemi;STR-Ferrari;69;+1 Lap;23;4
+2011/07/31;9;8;Nico Rosberg;Mercedes;69;+1 Lap;7;2
+2011/07/31;10;19;Jaime Alguersuari;STR-Ferrari;69;+1 Lap;16;1
+2011/07/31;11;16;Kamui Kobayashi;Sauber-Ferrari;69;+1 Lap;13;0
+2011/07/31;12;10;Vitaly Petrov;Renault;69;+1 Lap;12;0
+2011/07/31;13;11;Rubens Barrichello;Williams-Cosworth;68;+2 Laps;15;0
+2011/07/31;14;14;Adrian Sutil;Force India-Mercedes;68;+2 Laps;8;0
+2011/07/31;15;17;Sergio Perez;Sauber-Ferrari;68;+2 Laps;10;0
+2011/07/31;16;12;Pastor Maldonado;Williams-Cosworth;68;+2 Laps;17;0
+2011/07/31;17;24;Timo Glock;Virgin-Cosworth;66;+4 Laps;20;0
+2011/07/31;18;22;Daniel Ricciardo;HRT-Cosworth;66;+4 Laps;22;0
+2011/07/31;19;25;Jerome d Ambrosio;Virgin-Cosworth;65;+5 Laps;24;0
+2011/07/31;20;23;Vitantonio Liuzzi;HRT-Cosworth;65;+5 Laps;21;0
+2011/07/31;Ret;20;Heikki Kovalainen;Lotus-Renault;55;Water leak;18;0
+2011/07/31;Ret;7;Michael Schumacher;Mercedes;26;Gearbox;9;0
+2011/07/31;Ret;9;Nick Heidfeld;Renault;23;Fire;14;0
+2011/07/31;Ret;21;Jarno Trulli;Lotus-Renault;17;Water leak;19;0
+2011/08/28;1;1;Sebastian Vettel;RBR-Renault;44;1:26:44.893;1;25
+2011/08/28;2;2;Mark Webber;RBR-Renault;44;+3.7 secs;3;18
+2011/08/28;3;4;Jenson Button;McLaren-Mercedes;44;+9.6 secs;13;15
+2011/08/28;4;5;Fernando Alonso;Ferrari;44;+13.0 secs;8;12
+2011/08/28;5;7;Michael Schumacher;Mercedes;44;+47.4 secs;24;10
+2011/08/28;6;8;Nico Rosberg;Mercedes;44;+48.6 secs;5;8
+2011/08/28;7;14;Adrian Sutil;Force India-Mercedes;44;+59.7 secs;15;6
+2011/08/28;8;6;Felipe Massa;Ferrari;44;+66.0 secs;4;4
+2011/08/28;9;10;Vitaly Petrov;Renault;44;+71.9 secs;10;2
+2011/08/28;10;12;Pastor Maldonado;Williams-Cosworth;44;+77.6 secs;21;1
+2011/08/28;11;15;Paul di Resta;Force India-Mercedes;44;+83.9 secs;17;0
+2011/08/28;12;16;Kamui Kobayashi;Sauber-Ferrari;44;+91.9 secs;12;0
+2011/08/28;13;9;Bruno Senna;Renault;44;+92.9 secs;7;0
+2011/08/28;14;21;Jarno Trulli;Lotus-Renault;43;+1 Lap;18;0
+2011/08/28;15;20;Heikki Kovalainen;Lotus-Renault;43;+1 Lap;16;0
+2011/08/28;16;11;Rubens Barrichello;Williams-Cosworth;43;+1 Lap;14;0
+2011/08/28;17;25;Jerome d Ambrosio;Virgin-Cosworth;43;+1 Lap;20;0
+2011/08/28;18;24;Timo Glock;Virgin-Cosworth;43;+1 Lap;19;0
+2011/08/28;19;23;Vitantonio Liuzzi;HRT-Cosworth;43;+1 Lap;22;0
+2011/08/28;Ret;17;Sergio Perez;Sauber-Ferrari;27;Rear axle;9;0
+2011/08/28;Ret;22;Daniel Ricciardo;HRT-Cosworth;13;Mechanical;23;0
+2011/08/28;Ret;3;Lewis Hamilton;McLaren-Mercedes;12;Accident;2;0
+2011/08/28;Ret;18;Sebastien Buemi;STR-Ferrari;6;Accident damage;11;0
+2011/08/28;Ret;19;Jaime Alguersuari;STR-Ferrari;0;Accident damage;6;0
+2011/09/11;1;1;Sebastian Vettel;RBR-Renault;53;1:20:46.172;1;25
+2011/09/11;2;4;Jenson Button;McLaren-Mercedes;53;+9.5 secs;3;18
+2011/09/11;3;5;Fernando Alonso;Ferrari;53;+16.9 secs;4;15
+2011/09/11;4;3;Lewis Hamilton;McLaren-Mercedes;53;+17.4 secs;2;12
+2011/09/11;5;7;Michael Schumacher;Mercedes;53;+32.6 secs;8;10
+2011/09/11;6;6;Felipe Massa;Ferrari;53;+42.9 secs;6;8
+2011/09/11;7;19;Jaime Alguersuari;STR-Ferrari;52;+1 Lap;18;6
+2011/09/11;8;15;Paul di Resta;Force India-Mercedes;52;+1 Lap;11;4
+2011/09/11;9;9;Bruno Senna;Renault;52;+1 Lap;10;2
+2011/09/11;10;18;Sebastien Buemi;STR-Ferrari;52;+1 Lap;16;1
+2011/09/11;11;12;Pastor Maldonado;Williams-Cosworth;52;+1 Lap;14;0
+2011/09/11;12;11;Rubens Barrichello;Williams-Cosworth;52;+1 Lap;13;0
+2011/09/11;13;20;Heikki Kovalainen;Lotus-Renault;51;+2 Laps;20;0
+2011/09/11;14;21;Jarno Trulli;Lotus-Renault;51;+2 Laps;19;0
+2011/09/11;15;24;Timo Glock;Virgin-Cosworth;51;+2 Laps;21;0
+2011/09/11;NC;22;Daniel Ricciardo;HRT-Cosworth;39;+14 Laps;23;0
+2011/09/11;Ret;17;Sergio Perez;Sauber-Ferrari;32;Gearbox;15;0
+2011/09/11;Ret;16;Kamui Kobayashi;Sauber-Ferrari;21;Gearbox;17;0
+2011/09/11;Ret;14;Adrian Sutil;Force India-Mercedes;9;Steering;12;0
+2011/09/11;Ret;2;Mark Webber;RBR-Renault;4;Accident;5;0
+2011/09/11;Ret;25;Jerome d Ambrosio;Virgin-Cosworth;1;Gearbox;22;0
+2011/09/11;Ret;10;Vitaly Petrov;Renault;0;Accident;7;0
+2011/09/11;Ret;8;Nico Rosberg;Mercedes;0;Accident;9;0
+2011/09/11;Ret;23;Vitantonio Liuzzi;HRT-Cosworth;0;Accident;24;0
+2011/09/25;1;1;Sebastian Vettel;RBR-Renault;61;1:59:06.757;1;25
+2011/09/25;2;4;Jenson Button;McLaren-Mercedes;61;+1.7 secs;3;18
+2011/09/25;3;2;Mark Webber;RBR-Renault;61;+29.2 secs;2;15
+2011/09/25;4;5;Fernando Alonso;Ferrari;61;+55.4 secs;5;12
+2011/09/25;5;3;Lewis Hamilton;McLaren-Mercedes;61;+67.7 secs;4;10
+2011/09/25;6;15;Paul di Resta;Force India-Mercedes;61;+111.067 secs;10;8
+2011/09/25;7;8;Nico Rosberg;Mercedes;60;+1 Lap;7;6
+2011/09/25;8;14;Adrian Sutil;Force India-Mercedes;60;+1 Lap;9;4
+2011/09/25;9;6;Felipe Massa;Ferrari;60;+1 Lap;6;2
+2011/09/25;10;17;Sergio Perez;Sauber-Ferrari;60;+1 Lap;11;1
+2011/09/25;11;12;Pastor Maldonado;Williams-Cosworth;60;+1 Lap;13;0
+2011/09/25;12;18;Sebastien Buemi;STR-Ferrari;60;+1 Lap;14;0
+2011/09/25;13;11;Rubens Barrichello;Williams-Cosworth;60;+1 Lap;12;0
+2011/09/25;14;16;Kamui Kobayashi;Sauber-Ferrari;59;+2 Laps;17;0
+2011/09/25;15;9;Bruno Senna;Renault;59;+2 Laps;15;0
+2011/09/25;16;20;Heikki Kovalainen;Lotus-Renault;59;+2 Laps;19;0
+2011/09/25;17;10;Vitaly Petrov;Renault;59;+2 Laps;18;0
+2011/09/25;18;25;Jerome d Ambrosio;Virgin-Cosworth;59;+2 Laps;22;0
+2011/09/25;19;22;Daniel Ricciardo;HRT-Cosworth;57;+4 Laps;23;0
+2011/09/25;20;23;Vitantonio Liuzzi;HRT-Cosworth;57;+4 Laps;24;0
+2011/09/25;21;19;Jaime Alguersuari;STR-Ferrari;56;Accident;16;0
+2011/09/25;Ret;21;Jarno Trulli;Lotus-Renault;47;Gearbox;20;0
+2011/09/25;Ret;7;Michael Schumacher;Mercedes;28;Accident;8;0
+2011/09/25;Ret;24;Timo Glock;Virgin-Cosworth;9;Accident damage;21;0
+2011/10/09;1;4;Jenson Button;McLaren-Mercedes;53;1:30:53.427;2;25
+2011/10/09;2;5;Fernando Alonso;Ferrari;53;+1.1 secs;5;18
+2011/10/09;3;1;Sebastian Vettel;RBR-Renault;53;+2.0 secs;1;15
+2011/10/09;4;2;Mark Webber;RBR-Renault;53;+8.0 secs;6;12
+2011/10/09;5;3;Lewis Hamilton;McLaren-Mercedes;53;+24.2 secs;3;10
+2011/10/09;6;7;Michael Schumacher;Mercedes;53;+27.1 secs;8;8
+2011/10/09;7;6;Felipe Massa;Ferrari;53;+28.2 secs;4;6
+2011/10/09;8;17;Sergio Perez;Sauber-Ferrari;53;+39.3 secs;17;4
+2011/10/09;9;10;Vitaly Petrov;Renault;53;+42.6 secs;10;2
+2011/10/09;10;8;Nico Rosberg;Mercedes;53;+44.3 secs;23;1
+2011/10/09;11;14;Adrian Sutil;Force India-Mercedes;53;+54.4 secs;11;0
+2011/10/09;12;15;Paul di Resta;Force India-Mercedes;53;+62.3 secs;12;0
+2011/10/09;13;16;Kamui Kobayashi;Sauber-Ferrari;53;+63.7 secs;7;0
+2011/10/09;14;12;Pastor Maldonado;Williams-Cosworth;53;+64.1 secs;14;0
+2011/10/09;15;19;Jaime Alguersuari;STR-Ferrari;53;+66.6 secs;16;0
+2011/10/09;16;9;Bruno Senna;Renault;53;+72.6 secs;9;0
+2011/10/09;17;11;Rubens Barrichello;Williams-Cosworth;53;+74.1 secs;13;0
+2011/10/09;18;20;Heikki Kovalainen;Lotus-Renault;53;+87.8 secs;18;0
+2011/10/09;19;21;Jarno Trulli;Lotus-Renault;53;+96.1 secs;19;0
+2011/10/09;20;24;Timo Glock;Virgin-Cosworth;51;+2 Laps;21;0
+2011/10/09;21;25;Jerome d Ambrosio;Virgin-Cosworth;51;+2 Laps;20;0
+2011/10/09;22;22;Daniel Ricciardo;HRT-Cosworth;51;+2 Laps;22;0
+2011/10/09;23;23;Vitantonio Liuzzi;HRT-Cosworth;50;+3 Laps;24;0
+2011/10/09;Ret;18;Sebastien Buemi;STR-Ferrari;11;Wheel;15;0
+2011/10/16;1;1;Sebastian Vettel;RBR-Renault;55;1:38:01.994;2;25
+2011/10/16;2;3;Lewis Hamilton;McLaren-Mercedes;55;+12.0 secs;1;18
+2011/10/16;3;2;Mark Webber;RBR-Renault;55;+12.4 secs;4;15
+2011/10/16;4;4;Jenson Button;McLaren-Mercedes;55;+14.6 secs;3;12
+2011/10/16;5;5;Fernando Alonso;Ferrari;55;+15.6 secs;6;10
+2011/10/16;6;6;Felipe Massa;Ferrari;55;+25.1 secs;5;8
+2011/10/16;7;19;Jaime Alguersuari;STR-Ferrari;55;+49.5 secs;11;6
+2011/10/16;8;8;Nico Rosberg;Mercedes;55;+54.0 secs;7;4
+2011/10/16;9;18;Sebastien Buemi;STR-Ferrari;55;+62.7 secs;13;2
+2011/10/16;10;15;Paul di Resta;Force India-Mercedes;55;+68.6 secs;9;1
+2011/10/16;11;14;Adrian Sutil;Force India-Mercedes;55;+71.2 secs;10;0
+2011/10/16;12;11;Rubens Barrichello;Williams-Cosworth;55;+93.0 secs;18;0
+2011/10/16;13;9;Bruno Senna;Renault;54;+1 Lap;15;0
+2011/10/16;14;20;Heikki Kovalainen;Lotus-Renault;54;+1 Lap;19;0
+2011/10/16;15;16;Kamui Kobayashi;Sauber-Ferrari;54;+1 Lap;14;0
+2011/10/16;16;17;Sergio Perez;Sauber-Ferrari;54;+1 Lap;17;0
+2011/10/16;17;21;Jarno Trulli;Lotus-Renault;54;+1 Lap;20;0
+2011/10/16;18;24;Timo Glock;Virgin-Cosworth;54;+1 Lap;21;0
+2011/10/16;19;22;Daniel Ricciardo;HRT-Cosworth;54;+1 Lap;24;0
+2011/10/16;20;25;Jerome d Ambrosio;Virgin-Cosworth;54;+1 Lap;22;0
+2011/10/16;21;23;Vitantonio Liuzzi;HRT-Cosworth;52;+3 Laps;23;0
+2011/10/16;Ret;12;Pastor Maldonado;Williams-Cosworth;30;Engine;16;0
+2011/10/16;Ret;10;Vitaly Petrov;Renault;16;Accident;8;0
+2011/10/16;Ret;7;Michael Schumacher;Mercedes;15;Accident;12;0
+2011/10/30;1;1;Sebastian Vettel;RBR-Renault;60;1:30:35.002;1;25
+2011/10/30;2;4;Jenson Button;McLaren-Mercedes;60;+8.4 secs;4;18
+2011/10/30;3;5;Fernando Alonso;Ferrari;60;+24.3 secs;3;15
+2011/10/30;4;2;Mark Webber;RBR-Renault;60;+25.5 secs;2;12
+2011/10/30;5;7;Michael Schumacher;Mercedes;60;+65.4 secs;11;10
+2011/10/30;6;8;Nico Rosberg;Mercedes;60;+66.8 secs;7;8
+2011/10/30;7;3;Lewis Hamilton;McLaren-Mercedes;60;+84.1 secs;5;6
+2011/10/30;8;19;Jaime Alguersuari;STR-Ferrari;59;+1 Lap;10;4
+2011/10/30;9;14;Adrian Sutil;Force India-Mercedes;59;+1 Lap;8;2
+2011/10/30;10;17;Sergio Perez;Sauber-Ferrari;59;+1 Lap;20;1
+2011/10/30;11;10;Vitaly Petrov;Renault;59;+1 Lap;16;0
+2011/10/30;12;9;Bruno Senna;Renault;59;+1 Lap;14;0
+2011/10/30;13;15;Paul di Resta;Force India-Mercedes;59;+1 Lap;12;0
+2011/10/30;14;20;Heikki Kovalainen;Lotus-Renault;58;+2 Laps;18;0
+2011/10/30;15;11;Rubens Barrichello;Williams-Cosworth;58;+2 Laps;15;0
+2011/10/30;16;25;Jerome d Ambrosio;Virgin-Cosworth;57;+3 Laps;21;0
+2011/10/30;17;22;Narain Karthikeyan;HRT-Cosworth;57;+3 Laps;24;0
+2011/10/30;18;23;Daniel Ricciardo;HRT-Cosworth;57;+3 Laps;23;0
+2011/10/30;19;21;Jarno Trulli;Lotus-Renault;55;+5 Laps;19;0
+2011/10/30;Ret;6;Felipe Massa;Ferrari;32;Suspension;6;0
+2011/10/30;Ret;18;Sebastien Buemi;STR-Ferrari;24;Technical;9;0
+2011/10/30;Ret;12;Pastor Maldonado;Williams-Cosworth;12;Gearbox;13;0
+2011/10/30;Ret;24;Timo Glock;Virgin-Cosworth;2;Accident damage;22;0
+2011/10/30;Ret;16;Kamui Kobayashi;Sauber-Ferrari;0;Accident damage;17;0
+2011/11/13;1;3;Lewis Hamilton;McLaren-Mercedes;55;1:37:11.886;2;25
+2011/11/13;2;5;Fernando Alonso;Ferrari;55;+8.4 secs;5;18
+2011/11/13;3;4;Jenson Button;McLaren-Mercedes;55;+25.8 secs;3;15
+2011/11/13;4;2;Mark Webber;RBR-Renault;55;+35.7 secs;4;12
+2011/11/13;5;6;Felipe Massa;Ferrari;55;+50.5 secs;6;10
+2011/11/13;6;8;Nico Rosberg;Mercedes;55;+52.3 secs;7;8
+2011/11/13;7;7;Michael Schumacher;Mercedes;55;+75.9 secs;8;6
+2011/11/13;8;14;Adrian Sutil;Force India-Mercedes;55;+77.1 secs;9;4
+2011/11/13;9;15;Paul di Resta;Force India-Mercedes;55;+101.087 secs;10;2
+2011/11/13;10;16;Kamui Kobayashi;Sauber-Ferrari;54;+1 Lap;16;1
+2011/11/13;11;17;Sergio Perez;Sauber-Ferrari;54;+1 Lap;11;0
+2011/11/13;12;11;Rubens Barrichello;Williams-Cosworth;54;+1 Lap;24;0
+2011/11/13;13;10;Vitaly Petrov;Renault;54;+1 Lap;12;0
+2011/11/13;14;12;Pastor Maldonado;Williams-Cosworth;54;+1 Lap;23;0
+2011/11/13;15;19;Jaime Alguersuari;STR-Ferrari;54;+1 Lap;15;0
+2011/11/13;16;9;Bruno Senna;Renault;54;+1 Lap;14;0
+2011/11/13;17;20;Heikki Kovalainen;Lotus-Renault;54;+1 Lap;17;0
+2011/11/13;18;21;Jarno Trulli;Lotus-Renault;53;+2 Laps;18;0
+2011/11/13;19;24;Timo Glock;Virgin-Cosworth;53;+2 Laps;19;0
+2011/11/13;20;23;Vitantonio Liuzzi;HRT-Cosworth;53;+2 Laps;22;0
+2011/11/13;Ret;22;Daniel Ricciardo;HRT-Cosworth;48;Electrical;20;0
+2011/11/13;Ret;18;Sebastien Buemi;STR-Ferrari;19;Hydraulics;13;0
+2011/11/13;Ret;25;Jerome d Ambrosio;Virgin-Cosworth;18;Brakes;21;0
+2011/11/13;Ret;1;Sebastian Vettel;RBR-Renault;1;Puncture damage;1;0
+2011/11/27;1;2;Mark Webber;RBR-Renault;71;1:32:17.464;2;25
+2011/11/27;2;1;Sebastian Vettel;RBR-Renault;71;+16.9 secs;1;18
+2011/11/27;3;4;Jenson Button;McLaren-Mercedes;71;+27.6 secs;3;15
+2011/11/27;4;5;Fernando Alonso;Ferrari;71;+35.0 secs;5;12
+2011/11/27;5;6;Felipe Massa;Ferrari;71;+66.7 secs;7;10
+2011/11/27;6;14;Adrian Sutil;Force India-Mercedes;70;+1 Lap;8;8
+2011/11/27;7;8;Nico Rosberg;Mercedes;70;+1 Lap;6;6
+2011/11/27;8;15;Paul di Resta;Force India-Mercedes;70;+1 Lap;11;4
+2011/11/27;9;16;Kamui Kobayashi;Sauber-Ferrari;70;+1 Lap;16;2
+2011/11/27;10;10;Vitaly Petrov;Renault;70;+1 Lap;15;1
+2011/11/27;11;19;Jaime Alguersuari;STR-Ferrari;70;+1 Lap;13;0
+2011/11/27;12;18;Sebastien Buemi;STR-Ferrari;70;+1 Lap;14;0
+2011/11/27;13;17;Sergio Perez;Sauber-Ferrari;70;+1 Lap;17;0
+2011/11/27;14;11;Rubens Barrichello;Williams-Cosworth;70;+1 Lap;12;0
+2011/11/27;15;7;Michael Schumacher;Mercedes;70;+1 Lap;10;0
+2011/11/27;16;20;Heikki Kovalainen;Lotus-Renault;69;+2 Laps;19;0
+2011/11/27;17;9;Bruno Senna;Renault;69;+2 Laps;9;0
+2011/11/27;18;21;Jarno Trulli;Lotus-Renault;69;+2 Laps;20;0
+2011/11/27;19;25;Jerome d Ambrosio;Virgin-Cosworth;68;+3 Laps;23;0
+2011/11/27;20;22;Daniel Ricciardo;HRT-Cosworth;68;+3 Laps;22;0
+2011/11/27;Ret;23;Vitantonio Liuzzi;HRT-Cosworth;61;Alternator;21;0
+2011/11/27;Ret;3;Lewis Hamilton;McLaren-Mercedes;46;Gearbox;4;0
+2011/11/27;Ret;12;Pastor Maldonado;Williams-Cosworth;26;Spin;18;0
+2011/11/27;Ret;24;Timo Glock;Virgin-Cosworth;21;Wheel;24;

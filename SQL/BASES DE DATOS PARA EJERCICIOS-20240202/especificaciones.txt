@@ -1,0 +1,28 @@
+ * La empresa tiene varios centros de trabajo
+ * Cada centro de trabajo tiene un único número, un nombre y una dirección.
+ * Cada centro tiene varios departamentos. Hay departamentos que dependen de otro dpto. Cada dpto. pertenece a un solo centro.
+ * De cada dpto se conoce: 
+ 			su número (exclusivo),
+ 			el número del centro al que pertenece,
+			número de empleado que corresponde al director, 
+			si el director es provisional o fijo,
+			el presupuesto,
+			el número de departamento del cual depende,
+			el nombre del departamento.
+* En cada departamento trabajan uno o más empleados. Cada empleado pertenece a un solo departamento.
+* De cada empleado se conoce:
+			el número de empleado (exclusivo),
+			el número de departamento al que pertenece,
+			la extensión telefónica que usa,
+			la fecha de nacimiento,
+			la fecha de ingreso en la empresa,
+			el salario mensual que cobra,
+			la comisión mensual que cobra (a veces se desconoce),
+			el número de hijos,
+			el nombre del empleado.
+
+
+
+
+
+

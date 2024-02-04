@@ -1,0 +1,419 @@
+FECHA;PUESTOLLEGADA;NUMAUTO;NOMBREPILOTO;EQUIPO;VUELTAS;TPOCARRERA;PUESTOPARRILLA;PUNTOSCARRERA
+2013/03/17;1;7;Kimi Raikkonen;Lotus-Renault;58;1:30:03.225;7;25
+2013/03/17;2;3;Fernando Alonso;Ferrari;58;+12.4 secs;5;18
+2013/03/17;3;1;Sebastian Vettel;Red Bull Racing-Renault;58;+22.3 secs;1;15
+2013/03/17;4;4;Felipe Massa;Ferrari;58;+33.5 secs;4;12
+2013/03/17;5;10;Lewis Hamilton;Mercedes;58;+45.5 secs;3;10
+2013/03/17;6;2;Mark Webber;Red Bull Racing-Renault;58;+46.8 secs;2;8
+2013/03/17;7;15;Adrian Sutil;Force India-Mercedes;58;+65.0 secs;12;6
+2013/03/17;8;14;Paul di Resta;Force India-Mercedes;58;+68.4 secs;9;4
+2013/03/17;9;5;Jenson Button;McLaren-Mercedes;58;+81.6 secs;10;2
+2013/03/17;10;8;Romain Grosjean;Lotus-Renault;58;+82.7 secs;8;1
+2013/03/17;11;6;Sergio Perez;McLaren-Mercedes;58;+83.3 secs;15;0
+2013/03/17;12;18;Jean-Eric Vergne;STR-Ferrari;58;+83.8 secs;13;0
+2013/03/17;13;12;Esteban Gutierrez;Sauber-Ferrari;57;+1 Lap;18;0
+2013/03/17;14;17;Valtteri Bottas;Williams-Renault;57;+1 Lap;16;0
+2013/03/17;15;22;Jules Bianchi;Marussia-Cosworth;57;+1 Lap;19;0
+2013/03/17;16;20;Charles Pic;Caterham-Renault;56;+2 Laps;22;0
+2013/03/17;17;23;Max Chilton;Marussia-Cosworth;56;+2 Laps;20;0
+2013/03/17;18;21;Giedo van der Garde;Caterham-Renault;56;+2 Laps;21;0
+2013/03/17;Ret;19;Daniel Ricciardo;STR-Ferrari;39;Exhaust;14;0
+2013/03/17;Ret;9;Nico Rosberg;Mercedes;26;Electrical;6;0
+2013/03/17;Ret;16;Pastor Maldonado;Williams-Renault;24;Spin;17;0
+2013/03/17;Ret;11;Nico Hulkenberg;Sauber-Ferrari;0;Fuel System;11;0
+2013/03/24;1;1;Sebastian Vettel;Red Bull Racing-Renault;56;1:38:56.681;1;25
+2013/03/24;2;2;Mark Webber;Red Bull Racing-Renault;56;+4.2 secs;5;18
+2013/03/24;3;10;Lewis Hamilton;Mercedes;56;+12.1 secs;4;15
+2013/03/24;4;9;Nico Rosberg;Mercedes;56;+12.6 secs;6;12
+2013/03/24;5;4;Felipe Massa;Ferrari;56;+25.6 secs;2;10
+2013/03/24;6;8;Romain Grosjean;Lotus-Renault;56;+35.5 secs;11;8
+2013/03/24;7;7;Kimi Raikkonen;Lotus-Renault;56;+48.4 secs;10;6
+2013/03/24;8;11;Nico Hulkenberg;Sauber-Ferrari;56;+53.0 secs;12;4
+2013/03/24;9;6;Sergio Perez;McLaren-Mercedes;56;+72.3 secs;9;2
+2013/03/24;10;18;Jean-Eric Vergne;STR-Ferrari;56;+87.1 secs;17;1
+2013/03/24;11;17;Valtteri Bottas;Williams-Renault;56;+88.6 secs;18;0
+2013/03/24;12;12;Esteban Gutierrez;Sauber-Ferrari;55;+1 Lap;14;0
+2013/03/24;13;22;Jules Bianchi;Marussia-Cosworth;55;+1 Lap;19;0
+2013/03/24;14;20;Charles Pic;Caterham-Renault;55;+1 Lap;20;0
+2013/03/24;15;21;Giedo van der Garde;Caterham-Renault;55;+1 Lap;22;0
+2013/03/24;16;23;Max Chilton;Marussia-Cosworth;54;+2 Laps;21;0
+2013/03/24;17;5;Jenson Button;McLaren-Mercedes;53;Wheel;7;0
+2013/03/24;18;19;Daniel Ricciardo;STR-Ferrari;51;Exhaust;13;0
+2013/03/24;Ret;16;Pastor Maldonado;Williams-Renault;45;KERS;16;0
+2013/03/24;Ret;15;Adrian Sutil;Force India-Mercedes;27;Wheel nut;8;0
+2013/03/24;Ret;14;Paul di Resta;Force India-Mercedes;22;Wheel nut;15;0
+2013/03/24;Ret;3;Fernando Alonso;Ferrari;1;Accident;3;0
+2013/04/14;1;3;Fernando Alonso;Ferrari;56;1:36:26.945;3;25
+2013/04/14;2;7;Kimi Raikkonen;Lotus-Renault;56;+10.1 secs;2;18
+2013/04/14;3;10;Lewis Hamilton;Mercedes;56;+12.3 secs;1;15
+2013/04/14;4;1;Sebastian Vettel;Red Bull Racing-Renault;56;+12.5 secs;9;12
+2013/04/14;5;5;Jenson Button;McLaren-Mercedes;56;+35.2 secs;8;10
+2013/04/14;6;4;Felipe Massa;Ferrari;56;+40.8 secs;5;8
+2013/04/14;7;19;Daniel Ricciardo;STR-Ferrari;56;+42.6 secs;7;6
+2013/04/14;8;14;Paul di Resta;Force India-Mercedes;56;+51.0 secs;11;4
+2013/04/14;9;8;Romain Grosjean;Lotus-Renault;56;+53.4 secs;6;2
+2013/04/14;10;11;Nico Hulkenberg;Sauber-Ferrari;56;+56.5 secs;10;1
+2013/04/14;11;6;Sergio Perez;McLaren-Mercedes;56;+63.8 secs;12;0
+2013/04/14;12;18;Jean-Eric Vergne;STR-Ferrari;56;+72.6 secs;15;0
+2013/04/14;13;17;Valtteri Bottas;Williams-Renault;56;+93.8 secs;16;0
+2013/04/14;14;16;Pastor Maldonado;Williams-Renault;56;+95.4 secs;14;0
+2013/04/14;15;22;Jules Bianchi;Marussia-Cosworth;55;+1 Lap;18;0
+2013/04/14;16;20;Charles Pic;Caterham-Renault;55;+1 Lap;20;0
+2013/04/14;17;23;Max Chilton;Marussia-Cosworth;55;+1 Lap;19;0
+2013/04/14;18;21;Giedo van der Garde;Caterham-Renault;55;+1 Lap;21;0
+2013/04/14;Ret;9;Nico Rosberg;Mercedes;21;Suspension;4;0
+2013/04/14;Ret ;2;Mark Webber ;Red Bull Racing-Renault ;15;Wheel ;22;0
+2013/04/14;Ret ;15;Adrian Sutil ;Force India-Mercedes ;5;Accident ;13;0
+2013/04/14;Ret ;12;Esteban Gutierrez ;Sauber-Ferrari ;4;Accident ;17;0
+2013/04/21;1;1;Sebastian Vettel ;Red Bull Racing-Renault ;57;1:36:00.498 ;2;25
+2013/04/21;2;7;Kimi Raikkonen;Lotus-Renault ;57;+9.1 secs ;8;18
+2013/04/21;3;8;Romain Grosjean ;Lotus-Renault ;57;+19.5 secs ;11;15
+2013/04/21;4;14;Paul di Resta ;Force India-Mercedes ;57;+21.7 secs ;5;12
+2013/04/21;5;10;Lewis Hamilton ;Mercedes ;57;+35.2 secs ;9;10
+2013/04/21;6;6;Sergio Perez ;McLaren-Mercedes ;57;+35.9 secs ;12;8
+2013/04/21;7;2;Mark Webber ;Red Bull Racing-Renault ;57;+37.2 secs ;7;6
+2013/04/21;8;3;Fernando Alonso ;Ferrari ;57;+37.5 secs ;3;4
+2013/04/21;9;9;Nico Rosberg ;Mercedes ;57;+41.1 secs ;1;2
+2013/04/21;10;5;Jenson Button ;McLaren-Mercedes ;57;+46.6 secs ;10;1
+2013/04/21;11;16;Pastor Maldonado ;Williams-Renault ;57;+66.4 secs ;17;0
+2013/04/21;12;11;Nico Hulkenberg ;Sauber-Ferrari ;57;+72.9 secs ;14;0
+2013/04/21;13;15;Adrian Sutil ;Force India-Mercedes ;57;+76.7 secs ;6;0
+2013/04/21;14;17;Valtteri Bottas ;Williams-Renault ;57;+81.5 secs ;15;0
+2013/04/21;15;4;Felipe Massa ;Ferrari ;57;+86.3 secs ;4;0
+2013/04/21;16;19;Daniel Ricciardo ;STR-Ferrari ;56;+1 Lap ;13;0
+2013/04/21;17;20;Charles Pic ;Caterham-Renault ;56;+1 Lap ;18;0
+2013/04/21;18;12;Esteban Gutierrez ;Sauber-Ferrari ;56;+1 Lap ;22;0
+2013/04/21;19;22;Jules Bianchi ;Marussia-Cosworth ;56;+1 Lap ;19;0
+2013/04/21;20;23;Max Chilton ;Marussia-Cosworth ;56;+1 Lap ;21;0
+2013/04/21;21;21;Giedo van der Garde ;Caterham-Renault ;55;+2 Laps ;20;0
+2013/04/21;Ret ;18;Jean-Eric Vergne ;STR-Ferrari ;16;Accident damage ;16;0
+2013/05/12;1;3;Fernando Alonso ;Ferrari ;66;1:39:16.596 ;5;25
+2013/05/12;2;7;Kimi Raikkonen;Lotus-Renault ;66;+9.3 secs ;4;18
+2013/05/12;3;4;Felipe Massa ;Ferrari ;66;+26.0 secs ;9;15
+2013/05/12;4;1;Sebastian Vettel ;Red Bull Racing-Renault ;66;+38.2 secs ;3;12
+2013/05/12;5;2;Mark Webber ;Red Bull Racing-Renault ;66;+47.9 secs ;7;10
+2013/05/12;6;9;Nico Rosberg ;Mercedes ;66;+68.0 secs ;1;8
+2013/05/12;7;14;Paul di Resta ;Force India-Mercedes ;66;+68.9 secs ;10;6
+2013/05/12;8;5;Jenson Button ;McLaren-Mercedes ;66;+79.5 secs ;14;4
+2013/05/12;9;6;Sergio Perez ;McLaren-Mercedes ;66;+81.7 secs ;8;2
+2013/05/12;10;19;Daniel Ricciardo ;STR-Ferrari ;65;+1 Lap ;11;1
+2013/05/12;11;12;Esteban Gutierrez ;Sauber-Ferrari ;65;+1 Lap ;19;0
+2013/05/12;12;10;Lewis Hamilton ;Mercedes ;65;+1 Lap ;2;0
+2013/05/12;13;15;Adrian Sutil ;Force India-Mercedes ;65;+1 Lap ;13;0
+2013/05/12;14;16;Pastor Maldonado ;Williams-Renault ;65;+1 Lap ;17;0
+2013/05/12;15;11;Nico Hulkenberg ;Sauber-Ferrari ;65;+1 Lap ;15;0
+2013/05/12;16;17;Valtteri Bottas ;Williams-Renault ;65;+1 Lap ;16;0
+2013/05/12;17;20;Charles Pic ;Caterham-Renault ;65;+1 Lap ;22;0
+2013/05/12;18;22;Jules Bianchi ;Marussia-Cosworth ;64;+2 Laps ;20;0
+2013/05/12;19;23;Max Chilton ;Marussia-Cosworth ;64;+2 Laps ;21;0
+2013/05/12;Ret ;18;Jean-Eric Vergne ;STR-Ferrari ;52;Accident damage ;12;0
+2013/05/12;Ret ;21;Giedo van der Garde ;Caterham-Renault ;21;Wheel ;18;0
+2013/05/12;Ret ;8;Romain Grosjean ;Lotus-Renault ;8;Suspension ;6;0
+2013/05/26;1;9;Nico Rosberg ;Mercedes ;78;2:17:52.056 ;1;25
+2013/05/26;2;1;Sebastian Vettel ;Red Bull Racing-Renault ;78;+3.8 secs ;3;18
+2013/05/26;3;2;Mark Webber ;Red Bull Racing-Renault ;78;+6.3 secs ;4;15
+2013/05/26;4;10;Lewis Hamilton ;Mercedes ;78;+13.8 secs ;2;12
+2013/05/26;5;15;Adrian Sutil ;Force India-Mercedes ;78;+21.4 secs ;8;10
+2013/05/26;6;5;Jenson Button ;McLaren-Mercedes ;78;+23.1 secs ;9;8
+2013/05/26;7;3;Fernando Alonso ;Ferrari ;78;+26.7 secs ;6;6
+2013/05/26;8;18;Jean-Eric Vergne ;STR-Ferrari ;78;+27.2 secs ;10;4
+2013/05/26;9;14;Paul di Resta ;Force India-Mercedes ;78;+27.6 secs ;17;2
+2013/05/26;10;7;Kimi Raikkonen;Lotus-Renault ;78;+36.5 secs ;5;1
+2013/05/26;11;11;Nico Hulkenberg ;Sauber-Ferrari ;78;+42.5 secs ;11;0
+2013/05/26;12;17;Valtteri Bottas ;Williams-Renault ;78;+42.6 secs ;14;0
+2013/05/26;13;12;Esteban Gutierrez ;Sauber-Ferrari ;78;+43.2 secs ;19;0
+2013/05/26;14;23;Max Chilton ;Marussia-Cosworth ;78;+49.8 secs ;22;0
+2013/05/26;15;21;Giedo van der Garde ;Caterham-Renault ;78;+62.5 secs ;15;0
+2013/05/26;16;6;Sergio Perez ;McLaren-Mercedes ;72;Brakes ;7;0
+2013/05/26;Ret ;8;Romain Grosjean ;Lotus-Renault ;63;Accident damage ;13;0
+2013/05/26;Ret ;19;Daniel Ricciardo ;STR-Ferrari ;61;Accident ;12;0
+2013/05/26;Ret ;22;Jules Bianchi ;Marussia-Cosworth ;58;Brakes ;20;0
+2013/05/26;Ret ;16;Pastor Maldonado ;Williams-Renault ;44;Accident ;16;0
+2013/05/26;Ret ;4;Felipe Massa ;Ferrari ;28;Accident ;21;0
+2013/05/26;Ret ;20;Charles Pic ;Caterham-Renault ;7;Gearbox ;18;0
+2013/06/09;1;1;Sebastian Vettel ;Red Bull Racing-Renault ;70;1:32:09.143 ;1;25
+2013/06/09;2;3;Fernando Alonso ;Ferrari ;70;+14.4 secs ;6;18
+2013/06/09;3;10;Lewis Hamilton ;Mercedes ;70;+15.9 secs ;2;15
+2013/06/09;4;2;Mark Webber ;Red Bull Racing-Renault ;70;+25.7 secs ;5;12
+2013/06/09;5;9;Nico Rosberg ;Mercedes ;70;+69.7 secs ;4;10
+2013/06/09;6;18;Jean-Eric Vergne ;STR-Ferrari ;69;+1 Lap ;7;8
+2013/06/09;7;14;Paul di Resta ;Force India-Mercedes ;69;+1 Lap ;17;6
+2013/06/09;8;4;Felipe Massa ;Ferrari ;69;+1 Lap ;16;4
+2013/06/09;9;7;Kimi Raikkonen;Lotus-Renault ;69;+1 Lap ;10;2
+2013/06/09;10;15;Adrian Sutil ;Force India-Mercedes ;69;+1 Lap ;8;1
+2013/06/09;11;6;Sergio Perez ;McLaren-Mercedes ;69;+1 Lap ;12;0
+2013/06/09;12;5;Jenson Button ;McLaren-Mercedes ;69;+1 Lap ;14;0
+2013/06/09;13;8;Romain Grosjean ;Lotus-Renault ;69;+1 Lap ;22;0
+2013/06/09;14;17;Valtteri Bottas ;Williams-Renault ;69;+1 Lap ;3;0
+2013/06/09;15;19;Daniel Ricciardo ;STR-Ferrari ;68;+2 Laps ;11;0
+2013/06/09;16;16;Pastor Maldonado ;Williams-Renault ;68;+2 Laps ;13;0
+2013/06/09;17;22;Jules Bianchi ;Marussia-Cosworth ;68;+2 Laps ;19;0
+2013/06/09;18;20;Charles Pic ;Caterham-Renault ;67;+3 Laps ;18;0
+2013/06/09;19;23;Max Chilton ;Marussia-Cosworth ;67;+3 Laps ;20;0
+2013/06/09;20;12;Esteban Gutierrez ;Sauber-Ferrari ;63;Accident ;15;0
+2013/06/09;Ret ;11;Nico Hulkenberg ;Sauber-Ferrari ;45;Accident damage ;9;0
+2013/06/09;Ret ;21;Giedo van der Garde ;Caterham-Renault ;43;Accident ;21;0
+2013/06/30;1;9;Nico Rosberg ;Mercedes ;52;1:32:59.456 ;2;25
+2013/06/30;2;2;Mark Webber ;Red Bull Racing-Renault ;52;+0.7 secs ;4;18
+2013/06/30;3;3;Fernando Alonso ;Ferrari ;52;+7.1 secs ;9;15
+2013/06/30;4;10;Lewis Hamilton ;Mercedes ;52;+7.7 secs ;1;12
+2013/06/30;5;7;Kimi Raikkonen;Lotus-Renault ;52;+11.2 secs ;8;10
+2013/06/30;6;4;Felipe Massa ;Ferrari ;52;+14.5 secs ;11;8
+2013/06/30;7;15;Adrian Sutil ;Force India-Mercedes ;52;+16.3 secs ;6;6
+2013/06/30;8;19;Daniel Ricciardo ;STR-Ferrari ;52;+16.5 secs ;5;4
+2013/06/30;9;14;Paul di Resta ;Force India-Mercedes ;52;+17.9 secs ;21;2
+2013/06/30;10;11;Nico Hulkenberg ;Sauber-Ferrari ;52;+19.7 secs ;14;1
+2013/06/30;11;16;Pastor Maldonado ;Williams-Renault ;52;+21.1 secs ;15;0
+2013/06/30;12;17;Valtteri Bottas ;Williams-Renault ;52;+25.0 secs ;16;0
+2013/06/30;13;5;Jenson Button ;McLaren-Mercedes ;52;+25.9 secs ;10;0
+2013/06/30;14;12;Esteban Gutierrez ;Sauber-Ferrari ;52;+26.2 secs ;17;0
+2013/06/30;15;20;Charles Pic ;Caterham-Renault ;52;+31.6 secs ;18;0
+2013/06/30;16;22;Jules Bianchi ;Marussia-Cosworth ;52;+36.0 secs ;19;0
+2013/06/30;17;23;Max Chilton ;Marussia-Cosworth ;52;+67.6 secs ;20;0
+2013/06/30;18;21;Giedo van der Garde ;Caterham-Renault ;52;+67.7 secs ;22;0
+2013/06/30;19;8;Romain Grosjean ;Lotus-Renault ;51;Front wing ;7;0
+2013/06/30;20;6;Sergio Perez ;McLaren-Mercedes ;46;Tyre ;13;0
+2013/06/30;Ret ;1;Sebastian Vettel ;Red Bull Racing-Renault ;41;Gearbox ;3;0
+2013/06/30;Ret ;18;Jean-Eric Vergne ;STR-Ferrari ;35;Tyre ;12;0
+2013/07/07;1;1;Sebastian Vettel ;Red Bull Racing-Renault ;60;1:41:14.711 ;2;25
+2013/07/07;2;7;Kimi Raikkonen;Lotus-Renault ;60;+1.0 secs ;4;18
+2013/07/07;3;8;Romain Grosjean ;Lotus-Renault ;60;+5.8 secs ;5;15
+2013/07/07;4;3;Fernando Alonso ;Ferrari ;60;+7.7 secs ;8;12
+2013/07/07;5;10;Lewis Hamilton ;Mercedes ;60;+26.9 secs ;1;10
+2013/07/07;6;5;Jenson Button ;McLaren-Mercedes ;60;+27.9 secs ;9;8
+2013/07/07;7;2;Mark Webber ;Red Bull Racing-Renault ;60;+37.5 secs ;3;6
+2013/07/07;8;6;Sergio Perez ;McLaren-Mercedes ;60;+38.3 secs ;13;4
+2013/07/07;9;9;Nico Rosberg ;Mercedes ;60;+46.8 secs ;11;2
+2013/07/07;10;11;Nico Hulkenberg ;Sauber-Ferrari ;60;+49.8 secs ;10;1
+2013/07/07;11;14;Paul di Resta ;Force India-Mercedes ;60;+53.7 secs ;12;0
+2013/07/07;12;19;Daniel Ricciardo ;STR-Ferrari ;60;+56.9 secs ;6;0
+2013/07/07;13;15;Adrian Sutil ;Force India-Mercedes ;60;+57.7 secs ;15;0
+2013/07/07;14;12;Esteban Gutierrez ;Sauber-Ferrari ;60;+60.1 secs ;14;0
+2013/07/07;15;16;Pastor Maldonado ;Williams-Renault ;60;+61.9 secs ;18;0
+2013/07/07;16;17;Valtteri Bottas ;Williams-Renault ;59;+1 Lap ;17;0
+2013/07/07;17;20;Charles Pic ;Caterham-Renault ;59;+1 Lap ;22;0
+2013/07/07;18;21;Giedo van der Garde ;Caterham-Renault ;59;+1 Lap ;20;0
+2013/07/07;19;23;Max Chilton ;Marussia-Cosworth ;59;+1 Lap ;21;0
+2013/07/07;Ret ;18;Jean-Eric Vergne ;STR-Ferrari ;22;Hydraulics ;16;0
+2013/07/07;Ret ;22;Jules Bianchi ;Marussia-Cosworth ;21;Engine ;19;0
+2013/07/07;Ret ;4;Felipe Massa ;Ferrari ;3;Spin ;7;0
+2013/07/28;1;10;Lewis Hamilton ;Mercedes ;70;1:42:29.445 ;1;25
+2013/07/28;2;7;Kimi Raikkonen;Lotus-Renault ;70;+10.9 secs ;6;18
+2013/07/28;3;1;Sebastian Vettel ;Red Bull Racing-Renault ;70;+12.4 secs ;2;15
+2013/07/28;4;2;Mark Webber ;Red Bull Racing-Renault ;70;+18.0 secs ;10;12
+2013/07/28;5;3;Fernando Alonso ;Ferrari ;70;+31.4 secs ;5;10
+2013/07/28;6;8;Romain Grosjean ;Lotus-Renault ;70;+52.2 secs ;3;8
+2013/07/28;7;5;Jenson Button ;McLaren-Mercedes ;70;+53.8 secs ;13;6
+2013/07/28;8;4;Felipe Massa ;Ferrari ;70;+56.4 secs ;7;4
+2013/07/28;9;6;Sergio Perez ;McLaren-Mercedes ;69;+1 Lap ;9;2
+2013/07/28;10;16;Pastor Maldonado ;Williams-Renault ;69;+1 Lap ;15;1
+2013/07/28;11;11;Nico Hulkenberg ;Sauber-Ferrari ;69;+1 Lap ;12;0
+2013/07/28;12;18;Jean-Eric Vergne ;STR-Ferrari ;69;+1 Lap ;14;0
+2013/07/28;13;19;Daniel Ricciardo ;STR-Ferrari ;69;+1 Lap ;8;0
+2013/07/28;14;21;Giedo van der Garde ;Caterham-Renault ;68;+2 Laps ;20;0
+2013/07/28;15;20;Charles Pic ;Caterham-Renault ;68;+2 Laps ;19;0
+2013/07/28;16;22;Jules Bianchi ;Marussia-Cosworth ;67;+3 Laps ;21;0
+2013/07/28;17;23;Max Chilton ;Marussia-Cosworth ;67;+3 Laps ;22;0
+2013/07/28;18;14;Paul di Resta ;Force India-Mercedes ;66;Hydraulics ;18;0
+2013/07/28;19;9;Nico Rosberg ;Mercedes ;64;Engine ;4;0
+2013/07/28;Ret ;17;Valtteri Bottas ;Williams-Renault ;42;Hydraulics ;16;0
+2013/07/28;Ret ;12;Esteban Gutierrez ;Sauber-Ferrari ;28;Gearbox ;17;0
+2013/07/28;Ret ;15;Adrian Sutil ;Force India-Mercedes ;19;Hydraulics ;11;0
+2013/08/25;1;1;Sebastian Vettel ;Red Bull Racing-Renault ;44;1:23:42.196 ;2;25
+2013/08/25;2;3;Fernando Alonso ;Ferrari ;44;+16.8 secs ;9;18
+2013/08/25;3;10;Lewis Hamilton ;Mercedes ;44;+27.7 secs ;1;15
+2013/08/25;4;9;Nico Rosberg ;Mercedes ;44;+29.8 secs ;4;12
+2013/08/25;5;2;Mark Webber ;Red Bull Racing-Renault ;44;+33.8 secs ;3;10
+2013/08/25;6;5;Jenson Button ;McLaren-Mercedes ;44;+40.7 secs ;6;8
+2013/08/25;7;4;Felipe Massa ;Ferrari ;44;+53.9 secs ;10;6
+2013/08/25;8;8;Romain Grosjean ;Lotus-Renault ;44;+55.8 secs ;7;4
+2013/08/25;9;15;Adrian Sutil ;Force India-Mercedes ;44;+69.5 secs ;12;2
+2013/08/25;10;19;Daniel Ricciardo ;STR-Ferrari ;44;+73.4 secs ;19;1
+2013/08/25;11;6;Sergio Perez ;McLaren-Mercedes ;44;+81.9 secs ;13;0
+2013/08/25;12;18;Jean-Eric Vergne ;STR-Ferrari ;44;+86.7 secs ;18;0
+2013/08/25;13;11;Nico Hulkenberg ;Sauber-Ferrari ;44;+88.2 secs ;11;0
+2013/08/25;14;12;Esteban Gutierrez ;Sauber-Ferrari ;44;+100.4 secs ;21;0
+2013/08/25;15;17;Valtteri Bottas ;Williams-Renault ;44;+107.4 secs ;20;0
+2013/08/25;16;21;Giedo van der Garde ;Caterham-Renault ;43;+1 Lap ;14;0
+2013/08/25;17;16;Pastor Maldonado ;Williams-Renault ;43;+1 Lap ;17;0
+2013/08/25;18;22;Jules Bianchi ;Marussia-Cosworth ;43;+1 Lap ;15;0
+2013/08/25;19;23;Max Chilton ;Marussia-Cosworth ;42;+2 Laps ;16;0
+2013/08/25;Ret ;14;Paul di Resta ;Force India-Mercedes ;26;Accident ;5;0
+2013/08/25;Ret ;7;Kimi Raikkonen;Lotus-Renault ;25;Brakes ;8;0
+2013/08/25;Ret ;20;Charles Pic ;Caterham-Renault ;8;Oil leak ;22;0
+2013/09/08;1;1;Sebastian Vettel ;Red Bull Racing-Renault ;53;1:18:33.352 ;1;25
+2013/09/08;2;3;Fernando Alonso ;Ferrari ;53;+5.4 secs ;5;18
+2013/09/08;3;2;Mark Webber ;Red Bull Racing-Renault ;53;+6.3 secs ;2;15
+2013/09/08;4;4;Felipe Massa ;Ferrari ;53;+9.3 secs ;4;12
+2013/09/08;5;11;Nico Hulkenberg ;Sauber-Ferrari ;53;+10.3 secs ;3;10
+2013/09/08;6;9;Nico Rosberg ;Mercedes ;53;+10.9 secs ;6;8
+2013/09/08;7;19;Daniel Ricciardo ;STR-Ferrari ;53;+32.3 secs ;7;6
+2013/09/08;8;8;Romain Grosjean ;Lotus-Renault ;53;+33.1 secs ;13;4
+2013/09/08;9;10;Lewis Hamilton ;Mercedes ;53;+33.5 secs ;12;2
+2013/09/08;10;5;Jenson Button ;McLaren-Mercedes ;53;+38.3 secs ;9;1
+2013/09/08;11;7;Kimi Raikkonen;Lotus-Renault ;53;+38.6 secs ;11;0
+2013/09/08;12;6;Sergio Perez ;McLaren-Mercedes ;53;+39.7 secs ;8;0
+2013/09/08;13;12;Esteban Gutierrez ;Sauber-Ferrari ;53;+40.8 secs ;16;0
+2013/09/08;14;16;Pastor Maldonado ;Williams-Renault ;53;+49.0 secs ;14;0
+2013/09/08;15;17;Valtteri Bottas ;Williams-Renault ;53;+56.8 secs ;18;0
+2013/09/08;16;15;Adrian Sutil ;Force India-Mercedes ;52;Brakes ;17;0
+2013/09/08;17;20;Charles Pic ;Caterham-Renault ;52;+1 Lap ;20;0
+2013/09/08;18;21;Giedo van der Garde ;Caterham-Renault ;52;+1 Lap ;19;0
+2013/09/08;19;22;Jules Bianchi ;Marussia-Cosworth ;52;+1 Lap ;21;0
+2013/09/08;20;23;Max Chilton ;Marussia-Cosworth ;52;+1 Lap ;22;0
+2013/09/08;Ret ;18;Jean-Eric Vergne ;STR-Ferrari ;14;Transmission ;10;0
+2013/09/08;Ret ;14;Paul di Resta ;Force India-Mercedes ;0;Accident ;15;0
+2013/09/22;1;1;Sebastian Vettel ;Red Bull Racing-Renault ;61;1:59:13.132 ;1;25
+2013/09/22;2;3;Fernando Alonso ;Ferrari ;61;+32.6 secs ;7;18
+2013/09/22;3;7;Kimi Raikkonen;Lotus-Renault ;61;+43.9 secs ;13;15
+2013/09/22;4;9;Nico Rosberg ;Mercedes ;61;+51.1 secs ;2;12
+2013/09/22;5;10;Lewis Hamilton ;Mercedes ;61;+53.1 secs ;5;10
+2013/09/22;6;4;Felipe Massa ;Ferrari ;61;+63.8 secs ;6;8
+2013/09/22;7;5;Jenson Button ;McLaren-Mercedes ;61;+83.3 secs ;8;6
+2013/09/22;8;6;Sergio Perez ;McLaren-Mercedes ;61;+83.8 secs ;14;4
+2013/09/22;9;11;Nico Hulkenberg ;Sauber-Ferrari ;61;+84.2 secs ;11;2
+2013/09/22;10;15;Adrian Sutil ;Force India-Mercedes ;61;+84.6 secs ;15;1
+2013/09/22;11;16;Pastor Maldonado ;Williams-Renault ;61;+88.4 secs ;18;0
+2013/09/22;12;12;Esteban Gutierrez ;Sauber-Ferrari ;61;+97.8 secs ;10;0
+2013/09/22;13;17;Valtteri Bottas ;Williams-Renault ;61;+105.1 secs ;16;0
+2013/09/22;14;18;Jean-Eric Vergne ;STR-Ferrari ;61;+113.5 secs ;12;0
+2013/09/22;15;2;Mark Webber ;Red Bull Racing-Renault ;60;Engine ;4;0
+2013/09/22;16;21;Giedo van der Garde ;Caterham-Renault ;60;+1 Lap ;20;0
+2013/09/22;17;23;Max Chilton ;Marussia-Cosworth ;60;+1 Lap ;22;0
+2013/09/22;18;22;Jules Bianchi ;Marussia-Cosworth ;60;+1 Lap ;21;0
+2013/09/22;19;20;Charles Pic ;Caterham-Renault ;60;+1 Lap ;19;0
+2013/09/22;20;14;Paul di Resta ;Force India-Mercedes ;54;Accident ;17;0
+2013/09/22;Ret ;8;Romain Grosjean ;Lotus-Renault ;37;Engine ;3;0
+2013/09/22;Ret ;19;Daniel Ricciardo ;STR-Ferrari ;23;Accident ;9;0
+2013/10/06;1;1;Sebastian Vettel ;Red Bull Racing-Renault ;55;1:43:13.701 ;1;25
+2013/10/06;2;7;Kimi Raikkonen;Lotus-Renault ;55;+4.2 secs ;9;18
+2013/10/06;3;8;Romain Grosjean ;Lotus-Renault ;55;+4.9 secs ;3;15
+2013/10/06;4;11;Nico Hulkenberg ;Sauber-Ferrari ;55;+24.1 secs ;7;12
+2013/10/06;5;10;Lewis Hamilton ;Mercedes ;55;+25.2 secs ;2;10
+2013/10/06;6;3;Fernando Alonso ;Ferrari ;55;+26.1 secs ;5;8
+2013/10/06;7;9;Nico Rosberg ;Mercedes ;55;+26.6 secs ;4;6
+2013/10/06;8;5;Jenson Button ;McLaren-Mercedes ;55;+32.2 secs ;11;4
+2013/10/06;9;4;Felipe Massa ;Ferrari ;55;+34.3 secs ;6;2
+2013/10/06;10;6;Sergio Perez ;McLaren-Mercedes ;55;+35.1 secs ;10;1
+2013/10/06;11;12;Esteban Gutierrez ;Sauber-Ferrari ;55;+35.9 secs ;8;0
+2013/10/06;12;17;Valtteri Bottas ;Williams-Renault ;55;+47.0 secs ;17;0
+2013/10/06;13;16;Pastor Maldonado ;Williams-Renault ;55;+50.0 secs ;18;0
+2013/10/06;14;20;Charles Pic ;Caterham-Renault ;55;+63.5 secs ;19;0
+2013/10/06;15;21;Giedo van der Garde ;Caterham-Renault ;55;+64.5 secs ;20;0
+2013/10/06;16;22;Jules Bianchi ;Marussia-Cosworth ;55;+67.9 secs ;22;0
+2013/10/06;17;23;Max Chilton ;Marussia-Cosworth ;55;+72.8 secs ;21;0
+2013/10/06;18;18;Jean-Eric Vergne ;STR-Ferrari ;53;Mechanical ;16;0
+2013/10/06;19;19;Daniel Ricciardo ;STR-Ferrari ;52;Mechanical ;12;0
+2013/10/06;20;15;Adrian Sutil ;Force India-Mercedes ;50;Accident damage ;14;0
+2013/10/06;Ret ;2;Mark Webber ;Red Bull Racing-Renault ;36;Accident / fire ;13;0
+2013/10/06;Ret ;14;Paul di Resta ;Force India-Mercedes ;24;Accident ;15;0
+2013/10/13;1;1;Sebastian Vettel ;Red Bull Racing-Renault ;53;1:26:49.301 ;2;25
+2013/10/13;2;2;Mark Webber ;Red Bull Racing-Renault ;53;+7.1 secs ;1;18
+2013/10/13;3;8;Romain Grosjean ;Lotus-Renault ;53;+9.9 secs ;4;15
+2013/10/13;4;3;Fernando Alonso ;Ferrari ;53;+45.6 secs ;8;12
+2013/10/13;5;7;Kimi Raikkonen;Lotus-Renault ;53;+47.3 secs ;9;10
+2013/10/13;6;11;Nico Hulkenberg ;Sauber-Ferrari ;53;+51.6 secs ;7;8
+2013/10/13;7;12;Esteban Gutierrez ;Sauber-Ferrari ;53;+71.6 secs ;14;6
+2013/10/13;8;9;Nico Rosberg ;Mercedes ;53;+72.0 secs ;6;4
+2013/10/13;9;5;Jenson Button ;McLaren-Mercedes ;53;+80.8 secs ;10;2
+2013/10/13;10;4;Felipe Massa ;Ferrari ;53;+89.2 secs ;5;1
+2013/10/13;11;14;Paul di Resta ;Force India-Mercedes ;53;+98.5 secs ;12;0
+2013/10/13;12;18;Jean-Eric Vergne ;STR-Ferrari ;52;+1 Lap ;17;0
+2013/10/13;13;19;Daniel Ricciardo ;STR-Ferrari ;52;+1 Lap ;16;0
+2013/10/13;14;15;Adrian Sutil ;Force India-Mercedes ;52;+1 Lap ;22;0
+2013/10/13;15;6;Sergio Perez ;McLaren-Mercedes ;52;+1 Lap ;11;0
+2013/10/13;16;16;Pastor Maldonado ;Williams-Renault ;52;+1 Lap ;15;0
+2013/10/13;17;17;Valtteri Bottas ;Williams-Renault ;52;+1 Lap ;13;0
+2013/10/13;18;20;Charles Pic ;Caterham-Renault ;52;+1 Lap ;20;0
+2013/10/13;19;23;Max Chilton ;Marussia-Cosworth ;52;+1 Lap ;18;0
+2013/10/13;Ret ;10;Lewis Hamilton ;Mercedes ;7;Puncture damage ;3;0
+2013/10/13;Ret ;21;Giedo van der Garde ;Caterham-Renault ;0;Accident ;19;0
+2013/10/13;Ret ;22;Jules Bianchi ;Marussia-Cosworth ;0;Accident ;21;0
+2013/10/27;1;1;Sebastian Vettel ;Red Bull Racing-Renault ;60;1:31:12.187 ;1;25
+2013/10/27;2;9;Nico Rosberg ;Mercedes ;60;+29.8 secs ;2;18
+2013/10/27;3;8;Romain Grosjean ;Lotus-Renault ;60;+39.8 secs ;17;15
+2013/10/27;4;4;Felipe Massa ;Ferrari ;60;+41.6 secs ;5;12
+2013/10/27;5;6;Sergio Perez ;McLaren-Mercedes ;60;+43.8 secs ;9;10
+2013/10/27;6;10;Lewis Hamilton ;Mercedes ;60;+52.4 secs ;3;8
+2013/10/27;7;7;Kimi Raikkonen;Lotus-Renault ;60;+67.9 secs ;6;6
+2013/10/27;8;14;Paul di Resta ;Force India-Mercedes ;60;+72.8 secs ;12;4
+2013/10/27;9;15;Adrian Sutil ;Force India-Mercedes ;60;+74.7 secs ;13;2
+2013/10/27;10;19;Daniel Ricciardo ;STR-Ferrari ;60;+76.2 secs ;11;1
+2013/10/27;11;3;Fernando Alonso ;Ferrari ;60;+78.2 secs ;8;0
+2013/10/27;12;16;Pastor Maldonado ;Williams-Renault ;60;+78.9 secs ;18;0
+2013/10/27;13;18;Jean-Eric Vergne ;STR-Ferrari ;59;+1 Lap ;14;0
+2013/10/27;14;5;Jenson Button ;McLaren-Mercedes ;59;+1 Lap ;10;0
+2013/10/27;15;12;Esteban Gutierrez ;Sauber-Ferrari ;59;+1 Lap ;16;0
+2013/10/27;16;17;Valtteri Bottas ;Williams-Renault ;59;+1 Lap ;15;0
+2013/10/27;17;23;Max Chilton ;Marussia-Cosworth ;58;+2 Laps ;22;0
+2013/10/27;18;22;Jules Bianchi ;Marussia-Cosworth ;58;+2 Laps ;19;0
+2013/10/27;19;11;Nico Hulkenberg ;Sauber-Ferrari ;54;Technical ;7;0
+2013/10/27;Ret ;2;Mark Webber ;Red Bull Racing-Renault ;39;Alternator ;4;0
+2013/10/27;Ret ;20;Charles Pic ;Caterham-Renault ;35;Hydraulics ;21;0
+2013/10/27;Ret ;21;Giedo van der Garde ;Caterham-Renault ;1;Accident damage ;20;0
+2013/11/03;1;1;Sebastian Vettel ;Red Bull Racing-Renault ;55;1:38:06.106 ;2;25
+2013/11/03;2;2;Mark Webber ;Red Bull Racing-Renault ;55;+30.8 secs ;1;18
+2013/11/03;3;9;Nico Rosberg ;Mercedes ;55;+33.6 secs ;3;15
+2013/11/03;4;8;Romain Grosjean ;Lotus-Renault ;55;+34.8 secs ;6;12
+2013/11/03;5;3;Fernando Alonso ;Ferrari ;55;+67.1 secs ;10;10
+2013/11/03;6;14;Paul di Resta ;Force India-Mercedes ;55;+78.1 secs ;11;8
+2013/11/03;7;10;Lewis Hamilton ;Mercedes ;55;+79.2 secs ;4;6
+2013/11/03;8;4;Felipe Massa ;Ferrari ;55;+82.8 secs ;7;4
+2013/11/03;9;6;Sergio Perez ;McLaren-Mercedes ;55;+91.1 secs ;8;2
+2013/11/03;10;15;Adrian Sutil ;Force India-Mercedes ;55;+93.2 secs ;17;1
+2013/11/03;11;16;Pastor Maldonado ;Williams-Renault ;55;+95.9 secs ;14;0
+2013/11/03;12;5;Jenson Button ;McLaren-Mercedes ;55;+103.7 secs ;12;0
+2013/11/03;13;12;Esteban Gutierrez ;Sauber-Ferrari ;55;+104.2 secs ;16;0
+2013/11/03;14;11;Nico Hulkenberg ;Sauber-Ferrari ;54;+1 Lap ;5;0
+2013/11/03;15;17;Valtteri Bottas ;Williams-Renault ;54;+1 Lap ;15;0
+2013/11/03;16;19;Daniel Ricciardo ;STR-Ferrari ;54;+1 Lap ;9;0
+2013/11/03;17;18;Jean-Eric Vergne ;STR-Ferrari ;54;+1 Lap ;13;0
+2013/11/03;18;21;Giedo van der Garde ;Caterham-Renault ;54;+1 Lap ;18;0
+2013/11/03;19;20;Charles Pic ;Caterham-Renault ;54;+1 Lap ;19;0
+2013/11/03;20;22;Jules Bianchi ;Marussia-Cosworth ;53;+2 Laps ;21;0
+2013/11/03;21;23;Max Chilton ;Marussia-Cosworth ;53;+2 Laps ;20;0
+2013/11/03;Ret ;7;Kimi Raikkonen;Lotus-Renault ;0;Accident ;22;0
+2013/11/17;1;1;Sebastian Vettel ;Red Bull Racing-Renault ;56;1:39:17.148 ;1;25
+2013/11/17;2;8;Romain Grosjean ;Lotus-Renault ;56;+6.2 secs ;3;18
+2013/11/17;3;2;Mark Webber ;Red Bull Racing-Renault ;56;+8.3 secs ;2;15
+2013/11/17;4;10;Lewis Hamilton ;Mercedes ;56;+27.3 secs ;5;12
+2013/11/17;5;3;Fernando Alonso ;Ferrari ;56;+29.5 secs ;6;10
+2013/11/17;6;11;Nico Hulkenberg ;Sauber-Ferrari ;56;+30.4 secs ;4;8
+2013/11/17;7;6;Sergio Perez ;McLaren-Mercedes ;56;+46.6 secs ;7;6
+2013/11/17;8;17;Valtteri Bottas ;Williams-Renault ;56;+54.5 secs ;9;4
+2013/11/17;9;9;Nico Rosberg ;Mercedes ;56;+59.1 secs ;12;2
+2013/11/17;10;5;Jenson Button ;McLaren-Mercedes ;56;+77.2 secs ;15;1
+2013/11/17;11;19;Daniel Ricciardo ;STR-Ferrari ;56;+81.0 secs ;10;0
+2013/11/17;12;4;Felipe Massa ;Ferrari ;56;+86.9 secs ;13;0
+2013/11/17;13;12;Esteban Gutierrez ;Sauber-Ferrari ;56;+91.7 secs ;20;0
+2013/11/17;14;7;Heikki Kovalainen ;Lotus-Renault ;56;+95.0 secs ;8;0
+2013/11/17;15;14;Paul di Resta ;Force India-Mercedes ;56;+96.8 secs ;11;0
+2013/11/17;16;18;Jean-Eric Vergne ;STR-Ferrari ;56;+104.5 secs ;14;0
+2013/11/17;17;16;Pastor Maldonado ;Williams-Renault ;55;+1 Lap ;17;0
+2013/11/17;18;22;Jules Bianchi ;Marussia-Cosworth ;55;+1 Lap ;19;0
+2013/11/17;19;21;Giedo van der Garde ;Caterham-Renault ;55;+1 Lap ;18;0
+2013/11/17;20;20;Charles Pic ;Caterham-Renault ;55;+1 Lap ;22;0
+2013/11/17;21;23;Max Chilton ;Marussia-Cosworth ;54;+2 Laps ;21;0
+2013/11/17;Ret ;15;Adrian Sutil ;Force India-Mercedes ;0;Accident ;16;0
+2013/11/24;1;1;Sebastian Vettel ;Red Bull Racing-Renault ;71;1:32:36.300 ;1;25
+2013/11/24;2;2;Mark Webber ;Red Bull Racing-Renault ;71;+10.4 secs ;4;18
+2013/11/24;3;3;Fernando Alonso ;Ferrari ;71;+18.9 secs ;3;15
+2013/11/24;4;5;Jenson Button ;McLaren-Mercedes ;71;+37.3 secs ;14;12
+2013/11/24;5;9;Nico Rosberg ;Mercedes ;71;+39.0 secs ;2;10
+2013/11/24;6;6;Sergio Perez ;McLaren-Mercedes ;71;+44.0 secs ;19;8
+2013/11/24;7;4;Felipe Massa ;Ferrari ;71;+49.1 secs ;9;6
+2013/11/24;8;11;Nico Hulkenberg ;Sauber-Ferrari ;71;+64.2 secs ;10;4
+2013/11/24;9;10;Lewis Hamilton ;Mercedes ;71;+72.9 secs ;5;2
+2013/11/24;10;19;Daniel Ricciardo ;STR-Ferrari ;70;+1 Lap ;7;1
+2013/11/24;11;14;Paul di Resta ;Force India-Mercedes ;70;+1 Lap ;12;0
+2013/11/24;12;12;Esteban Gutierrez ;Sauber-Ferrari ;70;+1 Lap ;17;0
+2013/11/24;13;15;Adrian Sutil ;Force India-Mercedes ;70;+1 Lap ;15;0
+2013/11/24;14;7;Heikki Kovalainen ;Lotus-Renault ;70;+1 Lap ;11;0
+2013/11/24;15;18;Jean-Eric Vergne ;STR-Ferrari ;70;+1 Lap ;8;0
+2013/11/24;16;16;Pastor Maldonado ;Williams-Renault ;70;+1 Lap ;16;0
+2013/11/24;17;22;Jules Bianchi ;Marussia-Cosworth ;69;+2 Laps ;21;0
+2013/11/24;18;21;Giedo van der Garde ;Caterham-Renault ;69;+2 Laps ;20;0
+2013/11/24;19;23;Max Chilton ;Marussia-Cosworth ;69;+2 Laps ;22;0
+2013/11/24;Ret ;20;Charles Pic ;Caterham-Renault ;58;Suspension ;18;0
+2013/11/24;Ret ;17;Valtteri Bottas ;Williams-Renault ;45;Accident ;13;0
+2013/11/24;Ret ;8;Romain Grosjean ;Lotus-Renault ;2;Engine ;6;0
